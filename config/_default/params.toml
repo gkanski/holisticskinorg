@@ -16,6 +16,7 @@ enableCodeCopy = false
 # robots = ""
 
 disableImageOptimization = true
+disableTextInHeader = false
 
 # defaultBackgroundImage = "img/beata.jpg" # used as default for background images 
 
