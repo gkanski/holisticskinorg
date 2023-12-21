@@ -1,0 +1,9 @@
+{
+    "name": "Zuzanna Wieczorek",
+    "image" : "img/zwieczorek.jpg",
+    "bio": "Influencerka, świetnie zna otoczenie Social Mediów, interesuje się brand managementem, co łączy z  pasją do pielęgnacji. Prowadzi profil na Instagramie o charakterze edukacyjnym.",
+    "social": [
+        { "instagram": "https://instagram.com/skinemii/" },
+        { "tiktok": "https://www.tiktok.com/@skinemii/" }
+    ]
+}   

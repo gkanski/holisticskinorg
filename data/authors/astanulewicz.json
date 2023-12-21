@@ -1,0 +1,9 @@
+{
+    "name": "Aleksandra Stanulewicz",
+    "image" : "img/astanulewicz.jpg",
+    "bio": "Kosmetolożka i terapeutka twarzy. Właścicielka salonu kosmetyki i masażu KREM I DOTYK. Miłośniczka nieinwazyjnych, naturalnych metod odmładzania. Autorka masażu NATURAL FACE LIFT, dzięki któremu efekty kosmetologii i medycyny estetycznej są jeszcze bardziej spektakularne i trwałe, a ryzyko powikłań zminimalizowane. Trenerka, prelegentka i autorka artykułów w prasie branżowej.",
+    "social": [
+        { "instagram": "https://www.instagram.com/terapeutkatwarzy/" },
+        { "facebook": "https://www.facebook.com/olastanulewicz/" }
+    ]
+}

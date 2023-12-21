@@ -1,0 +1,11 @@
+{
+    "name": "Tomasz Piotrowski",
+    "image" : "img/tpiotrowski.jpg",
+    "bio": "Producent Kreatywny i Dyrektor Zarządzający 7 Studio Productions. Wraz z zespołem doradza firmom i markom osobistym w jaki sposób wykorzystać potencjał treści video w mediach.",
+    "social": [
+        { "instagram": "https://instagram.com/tomek_piotrowskii"},
+        { "facebook": "https://facebook.com/tomasz.piotrowski.79677"},
+        { "link": "https://7studioproductions.pl" },
+        { "link": "https://www.7studioevents.pl" }
+    ]
+}

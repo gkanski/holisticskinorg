@@ -1,0 +1,10 @@
+{
+    "name": "Ewelina Prusinowska",
+    "image" : "img/eprusinowska.jpg",
+    "bio": "Kosmetolog praktyk i szkoleniowiec. Specjalistka od skór trudnych - problematycznych, trądzikowych, wrażliwych, ale również dojrzałych. Z wykształcenia kosmetolog, oraz biotechnolog. W swojej pratyce gabinetowej opiera wszystkie działania na wspieraniu naturalnych procesów fizjologicznych w skórze, organizmie, wykorzystując jej naturalny potencjał regeneracji i leczenia, wspierając odpowiednim doborem substancji i technik zabiegowych. Prowadzi własny gabinet w Poznaniu.",
+    "social": [
+        { "instagram": "https://www.instagram.com/prusinowska.kosmetolog" },
+        { "facebook": "https://www.facebook.com/prusinowska.kosmetolog" },
+        { "link": "https://www.prusinowska-kosmetolog.pl" }
+    ]
+}

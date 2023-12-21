@@ -1,0 +1,10 @@
+{
+    "name": "Sylwia Siwczak - Nature Science Sp. z o.o.",
+    "image" : "img/naturescience.jpg",
+    "bio": "Magister mikrobiologii. Za misję stawia sobie edukowanie i uświadamianie ludzi w zakresie probiotykoterapii. Od 2022 roku związana firmą Nature Science, która na czele stawia jakość oferowanych produktów oraz dbanie o zdrowie w naturalny sposób. Zespół Nature Science zajmuje się dystrybucją preparatów probiotycznych oraz naturalnych dermokosmetyków probiotycznych.<br>Stworzyliśmy Nature Science, ponieważ wiemy, jaki wpływ ma połączenie naturalnych składników, nauki i nowych technologii na drodze do lepszego samopoczucia. Mamy wieloletnie doświadczenie w Polsce w opracowywaniu produktów probiotycznych opartych na wsadzie własnych szczepów bakterii probiotycznych. Na tej podstawie opracowaliśmy autorskie produkty, dzięki którym realnie zadbasz o zdrowie i poprawisz komfort swojego życia.",
+    "social": [
+        { "instagram": "https://www.instagram.com/naturescience.eu" },
+        { "facebook": "https://www.facebook.com/naturescience.eu" },
+        { "link": "https://naturescience.eu" }
+    ]
+}

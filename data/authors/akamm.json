@@ -1,0 +1,10 @@
+{
+    "name": "Anna Kamm",
+    "image" : "img/akamm.jpg",
+    "bio": "Dr n. med., kosmetolog, adiunkt i koordynator kierunku kosmetologia Wyższej Szkoły Zdrowia w Gdańsku, wykładowca GUMed, właścicielka salonu Kamelia w Gdańsku. Rozprawa doktorska udowodniła wpływ kwasu ferulowego na mitochondrialną ścieżkę apoptozy komórek nowotworowych. Na co dzień specjalizuje się w terapiach skór problematycznych. Jest członkiem rady naukowej czasopism naukowych: Aesthetic Cosmetology and Medicine oraz Journal of Life and Medical Science, a także International Association of Mesotherapy. Brand Manager Belnea Professionel - marki profesjonalnych kosmetyków. Autorka wielu publikacji z dziedziny kosmetologii i chemii medycznej poruszających tematykę biochemii i molekularnych mechanizmów zachodzących w procesie działania skóry. Prelegentka II Sympozjum Naukowego dla Kosmetologów SKINLIVE<sup>&reg;</sup>.",
+    "social": [
+        { "instagram": "https://www.instagram.com/dr_aniakamm" },
+        { "facebook": "https://www.facebook.com/kammanna" },
+        { "link": "https://www.kamelia.pl" }
+    ]
+}

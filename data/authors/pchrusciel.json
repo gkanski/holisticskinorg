@@ -1,0 +1,9 @@
+{
+    "name": "Patrycja Chruściel",
+    "image" : "img/pchrusciel.jpg",
+    "bio": "Magister kosmetologii oraz dyplomowany dietetyk. W swojej pracy kieruje się holistycznym podejściem do problemów skórnych, jakością używanych produktów oraz bezpieczeństwem klienta. Od kilku lat układa spersonalizowane plany pielęgnacyjne. Specjalizuje się w terapiach skór problematycznych. Rozwój i poszerzanie swoich umiejętności to jej pasja. Na codzień  prowadzi swój gabinet, w którym pracuje z podopiecznymi.",
+    "social": [
+        { "instagram": "https://instagram.com/patrycjachrusciel.kosmetolog" },
+        { "facebook": "https://facebook.com/patrycja.ada.chrusciel" }
+    ]
+}

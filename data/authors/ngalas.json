@@ -1,0 +1,10 @@
+{
+    "name": "Natalia Galas",
+    "image" : "img/ngalas.jpg",
+    "bio": "Doktor nauk o zdrowiu oraz magister kosmetologii, od 2013 roku związana z kosmetologią. Założycielka autorskiego gabinetu kosmetologicznego we Wrocławiu. Praktykę zawodową zdobywała w renomowanych klinikach medycyny estetycznej, kosmetologii i dermatologii. W swojej pracy korzysta z wysokiej klasy technologii Hi-Tech. Dzięki zdobytej wiedzy i doświadczeniu opracowuje dla swoich pacjentów indywidualne programy zabiegowe oraz dedykowaną pielęgnację domową. Prelegentka I Sympozjum Naukowego dla Kosmetologów SKINLIVE<sup>&reg;</sup>.",
+    "social": [
+        { "instagram": "https://www.instagram.com/nataliagalaskosmetolog" },
+        { "facebook": "https://www.facebook.com/nataliagalaskosmetolog" },
+        { "link": "https://www.nataliagalaskosmetolog.pl" }
+    ]
+}

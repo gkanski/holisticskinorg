@@ -1,0 +1,9 @@
+{
+    "name": "Ewa Szmaj-Kupny",
+    "image" : "img/eszmaj.jpg",
+    "bio": "Doktor nauk o zdrowiu, kosmetolog, szkoleniowiec, wykładowca Akademii WSB w Dąbrowie Górniczej. Pasjonatka pielęgnacji holistycznej i spersonalizowanej. Twórczyni linii kosmetycznej Dr Ewa Szmaj Esencje Natury; autorka \"Twojego poradnika zdrowej cery\", w którym udziela praktycznych porad pielęgnacyjnych każdej kobiecie.",
+    "social": [
+        { "instagram": "https://www.instagram.com/dr_ewa_kosmetolog" },
+        { "facebook": "https://www.facebook.com/drEwaSzmaj/" }
+    ]
+}

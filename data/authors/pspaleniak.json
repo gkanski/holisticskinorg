@@ -1,0 +1,10 @@
+{
+    "name": "Paulina Spaleniak",
+    "image" : "img/pspaleniak.jpg",
+    "bio": "Jako kosmetolog z 10-letnią praktyką wie jak ważne dla każdego z Klientów jest, by dobrze czuć się we własnej skórze. Jej misją jest podkreślić naturalne, unikalne piękno w każdym, kto zdecyduje się skorzystać z jej wiedzy i umiejętności. Jest przekonana, że w świadomej, a co za tym idzie efektywnej pielęgnacji, nie ma miejsca na przypadek. Właśnie dlatego tak wielki nacisk kładzie na zaplecze merytoryczne i nieustanne podnoszenie kompetencji. Jest zwolenniczką innowacyjnego podejścia do kosmetologii, która świadomie sięga do najnowszych badań i odkryć, gwarantujących skuteczne rozwiązania do walki z najczęstszymi problemami dermatologicznymi. Aby móc zaproponować Klientom zabiegi, które są gwarancją widocznych i trwałych efektów, od lat pracuje wyłącznie na najlepszych, renomowanych polskich markach profesjonalnych.",
+    "social": [
+        { "instagram": "https://www.instagram.com/kosmetolog_spaleniak/" },
+        { "instagram": "https://www.instagram.com/gabinetkosmetologiiskinexpert/" },
+        { "facebook": "https://www.facebook.com/paulina.spaleniak.5/"}
+    ]
+}

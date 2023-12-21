@@ -1,0 +1,11 @@
+{
+    "name": "Kamila Piątek",
+    "image" : "img/kpiatek.jpg",
+    "bio": "Absolwentka Kosmetologii Uniwersytetu Medycznego w Lublinie oraz Wyższej Szkoły Informatyki i Zarządzania na kierunku Zdrowie Publiczne. Wieloletni Praktyk, który łączy w swojej pracy Kosmetologię Regeneracyjną ze skutecznymi procedurami inwazyjnymi. Poza pracą w swoim gabinecie w Rzeszowie prowadzi szkolenia stacjonarne dla innych Kosmetologów. Współzałożycielka Platformy Szkoleniowej Projekt Kosmetolog, gdzie z szerszym gronem dzieli się swoim doświadczeniem i wiedzą.",
+    "social": [
+        { "instagram": "https://www.instagram.com/kamilapiatek_kosmetolog/" },
+        { "facebook": "https://www.facebook.com/kosmetologkamilapiatek/" },
+        { "youtube": "https://www.youtube.com/@KamilaPiatekKosmetolog/" },
+        { "tiktok": "https://www.tiktok.com/@kamilapiatek_kosmetolog" }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Monika Cała",
+    "image" : "img/mcala.jpg",
+    "bio": "Właścicielka gabinetu SHE Zacisze piękna. Absolwentka Wyższej Szkoły Biznesu i Nauk o Zdrowiu w Łodzi (licencjat o specjalizacji SPA i odnowa biologiczna) oraz absolwentka Uniwersytetu Medycznego w Łodzi. Specjalizuje się w zabiegach manualnych, działa zgodnie z kompleksowym i holistycznym podejściem do klienta. Przykłada szczególną wagę do relacji z klientami oraz do indywidualnego podejścia do każdego z nich.",
+    "social": [
+        { "instagram": "https://www.instagram.com/cala.kosmetolog" },
+        { "instagram": "https://www.instagram.com/she.zaciszepiekna" },
+        { "facebook": "https://www.facebook.com/monikacala.kosmetolog" }
+    ]
+}

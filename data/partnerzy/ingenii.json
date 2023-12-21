@@ -1,0 +1,11 @@
+{
+    "name": "Ingenii Professional",
+    "image" : "img/ingenii.png",
+    "link": "",
+    "text": "",
+    "social": [
+        { "instagram": "https://www.instagram.com/ingenii_pro_polska" },
+        { "facebook": "https://www.facebook.com/ingeniiofficial" },
+        { "link": "https://www.ingenii.eu" }
+    ]
+}

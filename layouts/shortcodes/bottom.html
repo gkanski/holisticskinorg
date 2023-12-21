@@ -1,0 +1,6 @@
+{{ $contributors := .Site.Data.contributors }}
+{{ $contributor := index $contributors (.Get 0) }}
+{{ $linkit := .Get 1 }}
+<span>
+    {{ partial "bottom.html" (dict "contributor" $contributor "linkit" $linkit) }}
+</span>

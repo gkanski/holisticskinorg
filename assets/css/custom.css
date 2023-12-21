@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Greg;
+    src: url('/fonts/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+    font-family: GregLogo;
+    src: url('/fonts/Trocchi-Regular.ttf') format('truetype');
+}
+
+html {
+    font-family: Greg;
+}
+
+.gregLogo {
+    font-family: GregLogo;
+}
+
+.min-w-half {
+    min-width: 50%;
+}
+
+.min-w-65 {
+    min-width: 65%;
+}
+
+#contact-form input,
+#contact-form textarea,
+#contact-form select {
+    color: black;
+    width: 600px;
+}
+
+@media (max-width: 800px) {
+    #contact-form input,
+    #contact-form textarea,
+    #contact-form select {
+        width: 350px;
+    }
+}
+
+@media (max-width: 640px) {
+#contact-form input,
+#contact-form textarea,
+    #contact-form select {
+        width: 200px;
+    }
+}
+
+#contact-form td {
+    vertical-align: middle;
+}
+
+.partnerimg {
+    width: 135px;
+}

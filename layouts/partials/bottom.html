@@ -1,0 +1,26 @@
+{{ $linkit := .linkit }}
+{{ with .contributor}}
+{{ $logo := resources.Get .image }}
+<div class="relative px-1 py-2 flex flex-col items-center justify-center text-center">
+    {{ if eq $linkit "link"}}
+        <a href="{{ .link }}">
+    {{ end}}
+        <img class="mx-0 my-0 nozoom rounded-md opacity-60" width="350" alt="" src="{{ $logo.RelPermalink }}" />
+    {{ if eq $linkit "link"}}
+        </a>
+    {{ end}}
+    <div class="mx-0 my-0 text-lg">
+        {{ with .social }}
+        <div class="flex flex-wrap">
+            {{ range $links := . }}
+            {{ range $name, $url := $links }}
+            <a class="px-1 py-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="{{ $url }}"
+                target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{ partial
+                "icon.html" $name }}</a>
+            {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

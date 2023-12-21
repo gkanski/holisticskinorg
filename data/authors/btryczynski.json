@@ -1,0 +1,10 @@
+{
+    "name": "Bartosz Tryczyński",
+    "image" : "img/btryczynski.jpg",
+    "bio": "Radca prawny z 10-letnim doświadczeniem. Prowadzi kancelarię we Wrocławiu, obsługując wraz z zespołem klientów na terenie całego kraju. Oferta kancelarii skierowana jest m.in. dla przedsiębiorców z branży beauty.",
+    "social": [
+        { "instagram": "https://www.instagram.com/trybartek/" },
+        { "facebook": "https://www.facebook.com/kancelariatryczynski" },
+        { "link": "https://tryczynski.pl" }
+    ]
+}

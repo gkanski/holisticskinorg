@@ -1,0 +1,11 @@
+{
+    "name": "Norsan Polska Sp. z o.o.",
+    "image" : "img/norsan.jpg",
+    "bio": "Norsan jest wyspecjalizowaną w tematyce omega-3 marką, rekomendowaną przez lekarzy, terapeutów i farmaceutów w Europie oraz numerem 1 na rynku płynnych suplementów omega-3 w niemieckich aptekach. Jakość produktów Norsan wyróżnia się m.in. wysoką dawką dzienną 2.000 mg omega-3 i zachowaniem naturalnej, tj. nieskoncentrowanej – kombinacji kwasów tłuszczowych. Dodatkowo nasze produkty są certyfikowane oraz dokładnie oczyszczone, co również możemy wykazać analizami badawczymi.",
+    "social": [
+        { "link": "https://norsan-omega.pl" },
+        { "facebook": "https://www.facebook.com/norsan.polska" },
+        { "instagram": "https://www.instagram.com/norsan.polska" },
+        { "linkedin": "https://www.linkedin.com/company/91726139" }
+    ]
+}

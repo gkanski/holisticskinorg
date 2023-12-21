@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sympozjum SKINLIVE on FUNDACJA&lt;br&gt;HOLISTIC SKIN</title>
+    <link>https://holisticskin.org/projekty/skinlive/</link>
+    <description>Recent content in Sympozjum SKINLIVE on FUNDACJA&lt;br&gt;HOLISTIC SKIN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://holisticskin.org/projekty/skinlive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sympozjum SKINLIVE 2022</title>
+      <link>https://holisticskin.org/projekty/skinlive/skinlive22/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://holisticskin.org/projekty/skinlive/skinlive22/</guid>
+      <description>I Sympozjum Naukowe dla Kosmetologów.Pierwsza edycja Sympozjum odbyła się 19-20 listopada 2022 roku we Wrocławiu i została bardzo dobrze przyjęte przez środowisko Kosmetologów. Przeżyjmy to jeszcze raz na filmie i zdjęciach z tego wydarzenia.</description>
+    </item>
+    
+    <item>
+      <title>Sympozjum SKINLIVE 2023</title>
+      <link>https://holisticskin.org/projekty/skinlive/skinlive23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://holisticskin.org/projekty/skinlive/skinlive23/</guid>
+      <description>II Sympozjum Naukowe dla Kosmetologów.25-26 listopada 2023. Concordia Design - Wyspa Słodowa 7, Wrocław.Kolejna II edycja Sympozjum jest kontynuacją wydarzenia, które w 2022 roku zostało bardzo dobrze przyjęte przez środowisko Kosmetologów.</description>
+    </item>
+    
+  </channel>
+</rss>

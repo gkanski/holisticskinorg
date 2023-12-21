@@ -1,0 +1,4 @@
+# use this in the template: {{ i18n "custom-pl" . "author.byline_title" | translate }} - to nie dziala...
+
+author:
+  byline_title: "Autorka"

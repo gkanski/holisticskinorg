@@ -1,0 +1,10 @@
+{
+    "name": "Łukasz Biłos, Ingenii Professional",
+    "image" : "img/ingenii.jpg",
+    "bio": "Dr inż. Łukasz Biłos, Adiunkt na Wydziale Inżynierii Produkcji i Logistyki Politechniki Opolskiej. Od 03.2023 pełniący obowiązki Kierownika Katedry Inżynierii Biosystemów i Procesów Chemicznych. Współwłaściciel Instytutu Kosmetycznego BJB Cosmetics w Opolu. Współtwórca i współwłaściciel marki kosmetyków Ingenii Professional. Prowadzi badania naukowe dotyczące surowców roślinnych wykorzystywanych w przemyśle spożywczym i kosmetycznym. Naukowo zajmuje się wieloaspektowo kawą, ekstrakcją materiałów roślinnych z wykorzystaniem rozpuszczalników organicznych ze szczególnym uwzględnieniem alkaloidów oraz destylacją olei eterycznych z parą wodną. Zaangażowany w badania dotyczące mikrobiologii, kosmetologii oraz mieszania materiałów sypkich. Zarządza działem R&D w obszarze produkcji surowców kosmetycznych pochodzących z maceracji kawy w niskiej temperaturze.",
+    "social": [
+        { "instagram": "https://www.instagram.com/ingenii_pro_polska" },
+        { "facebook": "https://www.facebook.com/ingeniiofficial" },
+        { "link": "https://www.ingenii.eu" }
+    ]
+}

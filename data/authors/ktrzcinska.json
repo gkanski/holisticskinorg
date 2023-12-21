@@ -1,0 +1,9 @@
+{
+    "name": "Katarzyna Trzcińska",
+    "image" : "img/ktrzcinska.jpg",
+    "bio": "Ukończyła studia licencjackie w Poznaniu i studia magisterskie na kierunku kosmetologia estetyczna w Bydgoszczy. Od ponad 5 lat prowadzi swój własny gabinet, jest autorką artykułów branżowych oraz szkoleniowcem z zakresu kosmetologii pielęgnacyjnej i estetycznej.",
+    "social": [
+        { "instagram": "https://www.instagram.com/kasia_kosmetolog/" },
+        { "facebook": "https://www.facebook.com/KSsalonkosmetyczny" }
+    ]
+}
