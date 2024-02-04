@@ -6,6 +6,7 @@
     <description>Recent content in Nowotwory on FUNDACJA&lt;br&gt;HOLISTIC SKIN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
+    <copyright>© 2024 Beata Rucka-Kańska</copyright>
     <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://holisticskin.org/tags/nowotwory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onkokosmetologia jako szczególna dziedzina zdrowia i pielęgnacji</title>
@@ -14,6 +15,7 @@
       
       <guid>https://holisticskin.org/artykuly/17eszmaj/</guid>
       <description>Ewa Szmaj-Kupny</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://holisticskin.org/artykuly/17eszmaj/featured_eszmaj.jpg" />
     </item>
     
     <item>
@@ -23,6 +25,7 @@
       
       <guid>https://holisticskin.org/artykuly/10kwisniewska/</guid>
       <description>Klaudia Wiśniewska</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://holisticskin.org/artykuly/10kwisniewska/featured_kwisniewska.jpg" />
     </item>
     
     <item>
@@ -32,6 +35,7 @@
       
       <guid>https://holisticskin.org/artykuly/09norsan/</guid>
       <description>Norsan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://holisticskin.org/artykuly/09norsan/featured_norsan.jpg" />
     </item>
     
     <item>
@@ -41,6 +45,7 @@
       
       <guid>https://holisticskin.org/artykuly/04proceanis/</guid>
       <description>Proceanis</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://holisticskin.org/artykuly/04proceanis/featured_proceanis.jpg" />
     </item>
     
   </channel>

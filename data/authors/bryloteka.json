@@ -1,0 +1,9 @@
+{
+    "name": "Bryloteka",
+    "image" : "img/bryloteka.png",
+    "bio": "Bryloteka to internetowe centrum wiedzy optycznej, wyjątkowe doradztwo i dbałość o klienta w każdym aspekcie. Dopasujemy oraz rozwiniemy ofertę optyczną adekwatnie do potrzeb i wymagań. W naszych mediach społecznościowych znajdziecie wiele porad, sugestii, ciekawostek a nawet warsztatów makijażowych - makeup for glasses. Nieustannie stawiamy na rozwój i pasje. Wkrótce otworzymy dla Was azyl okularowy stacjonarnie!",
+    "social": [
+        { "instagram": "https://www.instagram.com/bryloteka/" },
+        { "facebook": "https://www.facebook.com/profile.php?id=100093064117736" }
+    ]
+}

@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< typeit speed=5 tag=h3 >}}
-15.12.2023: Nowy artykuł Natalii Hojda pt. "Najpopularniejsze składniki aktywne w terapii przebarwień skórnych" dostępny <a href="/artykuly/24nhojda">tutaj...</a><br>
+26.01.2024: Nowy artykuł Magdaleny Dyrda pt. "Peptydy, komórki macierzyste i egzosomy. Nowa era w kosmetologii holistycznej." dostępny <a href="/artykuly/27mdyrda">tutaj...</a><br>
 {{< /typeit >}}
 
 <br>
@@ -27,8 +27,7 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 {{< /item >}}
 
 {{< item icon="heart-empty" header="AMBASADORZY" subheader="Ambasadorzy Fundacji" badge="NEWS" more="/ambasadorzy/" >}}
-:small_blue_diamond:Paulina Kwietoń - Ambasador ds. bielactwa<br>
-:small_blue_diamond:Dorota Witkowska - Ambasador ds. onkokosmetologii
+:small_blue_diamond:Paulina Kwietoń - Ambasador ds. bielactwa
 {{< /item >}}
 
 {{< /items >}}

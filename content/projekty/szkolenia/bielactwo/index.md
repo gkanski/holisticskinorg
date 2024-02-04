@@ -4,13 +4,13 @@ date: 2023-02-01
 draft: false
 authors:
  - pkwieton
-summary: "Seria warsztatów poświęconych bielactwu z udziałem naszej Ambasadorki Pauliny Kwietoń.<br>🔹Początek 2024: Hotel Campanile - ul. Ślężna 26, Wrocław<br>🔹Patronat: lumiSCAN<sup>&reg;</sup>, Ingenii Professional<img src=\"/img/lumiscan.jpg\" width=\"250px\" class=\"ml-4 mt-1 mb-0 nozoom rounded-md opacity-60\"><img src=\"/img/ingenii2.jpg\" width=\"250px\" class=\"ml-4 mt-2 mb-0 nozoom rounded-md opacity-60\">"
+summary: "Seria szkoleń poświęconych bielactwu z udziałem naszej Ambasadorki Pauliny Kwietoń.<br>🔹Patronat: lumiSCAN<sup>&reg;</sup>, Ingenii Professional<img src=\"/img/lumiscan.jpg\" width=\"250px\" class=\"ml-4 mt-1 mb-0 nozoom rounded-md opacity-60\"><img src=\"/img/ingenii2.jpg\" width=\"250px\" class=\"ml-4 mt-2 mb-0 nozoom rounded-md opacity-60\">"
 heroStyle: "background"
-tags: ["Nadchodzące", "Wrocław", "11.09.2023"]
+tags: ["Nadchodzące", "Wrocław"]
 ---
 
 {{< lead >}}
-Seria warsztatów poświęconych bielactwu z udziałem naszej Ambasadorki Pauliny Kwietoń.
+Seria szkoleń poświęconych bielactwu z udziałem naszej Ambasadorki Pauliny Kwietoń.
 {{< /lead >}}
 
 Łącząc nasze siły i doświadczenia, naszą misją jest:
@@ -19,24 +19,11 @@ Seria warsztatów poświęconych bielactwu z udziałem naszej Ambasadorki Paulin
  - rozwijanie świadomości powstrzymującej dyskryminacje, stygmatyzacje, a także autostygmatyzacje,
  - działania profilaktyczne zapobiegające pojawieniu się lub rozwojowi efektów niepożądanych.
 
-Pragniemy stworzyć przestrzeń dla osób chorujących na bielactwo, aby dzięki nam poczuły się zaopiekowane i poprowadzone przez proces chorobowy z uwzględnieniem holistycznego podejścia do choroby. Będziemy organizować dla takich ludzi warsztaty z naciskiem na pogłębianie wiedzy z zakresu bielactwa, sposobów radzenia sobie z chorobą, a także biorąc mocno pod uwagę proces samoakceptacji i poprawy jakości życia w społeczeństwie. 
+Pragniemy stworzyć przestrzeń dla osób chorujących na bielactwo, aby dzięki nam poczuły się zaopiekowane i poprowadzone przez proces chorobowy z uwzględnieniem holistycznego podejścia do choroby. Będziemy organizować dla takich ludzi szkolenia z naciskiem na pogłębianie wiedzy z zakresu bielactwa, sposobów radzenia sobie z chorobą, a także biorąc mocno pod uwagę proces samoakceptacji i poprawy jakości życia w społeczeństwie. 
 
 Celujemy również w poszerzanie wiedzy i świadomości wśród profesjonalistów z branży beauty. Wychodząc naprzeciw osobom chorującym na bielactwo, będziemy uświadamiać i edukować kosmetologów, aby mogli tworzyć miejsca dla nich przyjazne. Dlatego w rekomendowanych przez nas gabinetach będzie można skorzystać z zabiegów kosmetologicznych, dostać wsparcie, zrozumienie, a także spotkać się z uznaniem i brakiem dyskryminacji oraz poprawą komfortu życia ludzi chorujących na bielactwo. 
 
-## Bilet
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button buy-button-id="buy_btn_1NV5iqB7MZ0Shz4XCZYtRTT2" publishable-key="pk_live_51NV4yjB7MZ0Shz4XoJr0Ma69nMPfL3XTGTIhbVXd2N5ZWOJXGL9xA8MMc00G8X0ZY9XqHvSxYDEEtfIR2UiHrsck003jXvbqKc">
-</stripe-buy-button>
-
-## Data i miejsce
-
-Początek 2024 [{{< icon "link">}} Hotel Campanile - ul. Ślężna 26, Wrocław](https://wroclaw-centrum.campanile.com/pl/)
-
-## Plan warsztatów
+## Plan szkoleń
 
 1. Rys medyczny: przyczyny powstawania, metody leczenia
 2. Diagnostyka: jakie zrobić badania, jak rozpoznać bielactwo obrazowo

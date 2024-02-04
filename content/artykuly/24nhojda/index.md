@@ -4,7 +4,7 @@ date: 2023-12-15
 draft: false
 description: ""
 showDate: true
-tags: [Natalia Hojda, Przebarwienia]
+tags: [Natalia Hojda, Przebarwienia skóry]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
