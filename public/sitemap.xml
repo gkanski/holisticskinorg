@@ -4,19 +4,73 @@
 
   <url>
     <loc>https://holisticskin.org/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/authors/adoliwa/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/tags/anna-doliwa/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://holisticskin.org/artykuly/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://holisticskin.org/authors/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/tags/depresja/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/artykuly/28adoliwa/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/tags/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/partnerzy/mnosek/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/authors/mnosek/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/partnerzy/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://holisticskin.org/partnerzy/adoliwa/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -40,12 +94,6 @@
   </url>
   <url>
     <loc>https://holisticskin.org/tags/przebarwienia-sk%C3%B3ry/</loc>
-    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/tags/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -723,26 +771,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://holisticskin.org/partnerzy/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://holisticskin.org/authors/pcekowska/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/tags/19-20.11.2022/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/tags/25-26.11.2023/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -795,12 +825,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://holisticskin.org/tags/nadchodz%C4%85ce/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://holisticskin.org/projekty/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -825,31 +849,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://holisticskin.org/projekty/skinlive/skinlive22/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/projekty/skinlive/skinlive23/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://holisticskin.org/projekty/szkolenia/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/tags/wroc%C5%82aw/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://holisticskin.org/tags/zako%C5%84czone/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

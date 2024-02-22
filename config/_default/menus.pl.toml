@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "SZKOLENIA"
+  name = "WYDARZENIA"
   pageRef = "projekty/szkolenia"
   weight = 20
 

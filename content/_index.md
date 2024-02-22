@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< typeit speed=5 tag=h3 >}}
-26.01.2024: Nowy artykuł Magdaleny Dyrda pt. "Peptydy, komórki macierzyste i egzosomy. Nowa era w kosmetologii holistycznej." dostępny <a href="/artykuly/27mdyrda">tutaj...</a><br>
+23.02.2024: Nowy artykuł Anny Doliwa pt. "Korelacja między depresją a stanem skóry." dostępny <a href="/artykuly/28adoliwa">tutaj...</a><br>
 {{< /typeit >}}
 
 <br>
@@ -20,9 +20,11 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 {{< /item >}}
 
 {{< item icon="heart-empty" header="PARTNERZY" subheader="Partnerzy Fundacji" more="/partnerzy/" >}}
+:small_blue_diamond:Milena Nosek - Dietetyka<br>
+:small_blue_diamond:Anna Doliwa - Psychologia<br>
 :small_blue_diamond:Paloma Cekowska - Marketing<br>
-:small_blue_diamond:Bartosz Tryczyński - Radca Prawny<br>
 :small_blue_diamond:Sandra Ogrodniczak - Social Media<br>
+:small_blue_diamond:Bartosz Tryczyński - Radca Prawny<br>
 :small_blue_diamond:Grzegorz Kański - Prezes Zarządu / IT
 {{< /item >}}
 

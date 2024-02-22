@@ -1,0 +1,10 @@
+{
+    "name": "Anna Doliwa",
+    "image" : "img/adoliwa.jpg",
+    "bio": "Doświadczony psycholog i terapeuta, skupia się na wspieraniu ludzi w odkrywaniu i rozwijaniu swojego potencjału emocjonalnego oraz utrzymaniu zdrowia psychicznego. W swojej praktyce wykorzystuje podejście poznawczo - behawioralne, ACT (Terapia Akceptacji i Zaangażowania) oraz TSR (Terapia Skoncentrowana na Rozwiązaniach). Kładzie nacisk na akceptację własnych doświadczeń oraz zaangażowanie w wartościowe działania, co pomaga w osiągnięciu wyznaczonych celów i utrzymywaniu trwałej zmiany. Tworzy bezpieczne i otwarte środowisko, w którym ludzie mogą dzielić się swoimi empcjami. Poprzez wspólną pracę nad zrozumieniem towarzyszących nam myśli i zachowań, wspiera ludzi w osiąganiu harmonii i budowie trwałego dobrostanu psychicznego.",
+    "social": [
+        { "instagram": "https://www.instagram.com/emotifstyle/" },
+        { "facebook": "https://www.facebook.com/emotifstyle/" },
+        { "link": "https://www.emotif.pl" }
+    ]
+}

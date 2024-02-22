@@ -1,0 +1,10 @@
+{
+    "name": "Milena Nosek",
+    "image" : "img/mnosek.jpg",
+    "bio": "Absolwentka Warszawskiego Uniwersytetu Medycznego, dietetyk kliniczny i psychodietetyk. Autorka książek o tematyce żywienia, wypowiedzi eksperckich w mediach, bloga, wykładowca. Prelegentka II Sympozjum Naukowego dla Kosmetologów SKINLIVE<sup>&reg;</sup>.",
+    "social": [
+        { "instagram": "https://www.instagram.com/milena.nosek.dietetyk" },
+        { "facebook": "https://www.facebook.com/nosekmilena" },
+        { "link": "https://www.milenanosek.pl" }
+    ]
+}
