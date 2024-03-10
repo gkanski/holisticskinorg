@@ -58,7 +58,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://gkanski.github.io/holisticskinorg/"          
+            --baseURL "https://gh.holisticskin.org/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
