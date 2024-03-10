@@ -4,7 +4,7 @@ date: 2024-01-26
 draft: false
 description: ""
 showDate: true
-tags: [Magdalena Dyrda, Przebarwienia skóry]
+tags: [Magdalena Dyrda, Peptydy, Komórki macierzyste, Egzosomy]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false

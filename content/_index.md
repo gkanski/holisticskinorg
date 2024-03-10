@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< typeit speed=5 tag=h3 >}}
-23.02.2024: Nowy artykuł Anny Doliwa pt. "Korelacja między depresją a stanem skóry." dostępny <a href="/artykuly/28adoliwa">tutaj...</a><br>
+08.03.2024: Nowy artykuł Joanny Pietraś pt. "Slugging - wazelinowanie twarzy - dla kogo?" dostępny <a href="/artykuly/30jpietras">tutaj...</a><br>
 {{< /typeit >}}
 
 <br>
