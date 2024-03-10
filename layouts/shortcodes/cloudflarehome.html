@@ -1,0 +1,18 @@
+{{ $id := .Get "id" | default "" }}
+{{ $timestamp := .Get "timestamp" | default "0s" }}
+{{ $author := .Get "author" | default "" }}
+{{ $width := .Get "width" | default "780px" }}
+
+<div class="relative px-1 py-2 flex flex-col items-center justify-center text-center">
+    <div class="videohome">
+      <div style="position: relative; padding-top: 56.25%;">
+        <iframe
+          src="https://customer-jzrcefiufur2k3cv.cloudflarestream.com/{{$id}}/iframe?preload=true&poster=https%3A%2F%2Fcustomer-jzrcefiufur2k3cv.cloudflarestream.com%2F{{$id}}%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D{{$timestamp}}%26height%3D600"
+          style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+          allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+          allowfullscreen="true"
+        ></iframe>
+      </div>
+    </div>
+    <span class="text-xl pt-2 text-neutral-800 dark:text-neutral-200">{{$author}}</span>
+  </div>

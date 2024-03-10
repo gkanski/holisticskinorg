@@ -9,6 +9,10 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 
 <br>
 
+{{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin" timestamp="1s" width="60%">}}
+
+<br>
+
 {{< items >}}
 
 {{< item icon="edit" header="ARTYKUŁY" subheader="Zdobywaj Wiedzę z Fundacją" more="/artykuly/" >}}
