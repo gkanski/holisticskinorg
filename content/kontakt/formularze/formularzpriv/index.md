@@ -24,7 +24,7 @@ Formularz kontaktowy dla Kosmetologów zainteresowanych publikacją swoich artyk
 | Pole | Do wypełnienia |
 |------|----------------|
 |<label for="fullname">Imię i Nazwisko*</label>|<input name="fullname" id="fullname" type="text" required maxlength="64"><br>Imię i nazwisko|
-|<label for="email">Forma Kontaktu *</label>|<input name="email" id="email" type="text" required maxlength="64"><br>Preferowana forma kontaktu: e-mail i/lub numer telefonu.|
+|<label for="contact">Forma Kontaktu *</label>|<input name="contact" id="contact" type="text" required maxlength="64"><br>Preferowana forma kontaktu: e-mail i/lub numer telefonu.|
 |<label for="title">Temat Proponowanego Artykułu *</label>|<textarea name="title" id="title" rows="11" required maxlength="1024" ></textarea><br>Podaj tematykę i szczegóły dotyczące proponowanego przez Ciebie artykułu.|
 |<label for="next">Następny Artykuł *</label>|<select name="next" id="next" required ><option value="nie wiem">?</option><option value="nie">Nie</option><option value="tak - za miesiac">Tak - za miesiąc</option><option value="tak - za 2 miesiace">Tak - za 2 miesiące</option><option value="tak - pozniej">Tak - później</option></select><br>Czy jesteś zainteresowana(y) przygotować kolejny artykuł?|
 |<label for="bio">BIO *</label>|<textarea name="bio" id="bio" rows="6" required maxlength="512" ></textarea><br>Podaj krótki opis Twojej osoby, jaki ma pojawić się pod artykułem.|
