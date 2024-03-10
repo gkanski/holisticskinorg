@@ -3,9 +3,9 @@ title: ""
 description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
-{{< typeit speed=5 tag=h3 >}}
-08.03.2024: Nowy artykuł Joanny Pietraś pt. "Slugging - wazelinowanie twarzy - dla kogo?" dostępny <a href="/artykuly/30jpietras">tutaj...</a><br>
-{{< /typeit >}}
+{{< alert "bell" >}}
+08.03.2024: Nowy artykuł Joanny Pietraś pt. "Slugging - wazelinowanie twarzy - dla kogo?" <a href="/artykuly/30jpietras">przeczytasz tutaj...</a><br>
+{{< /alert >}}
 
 <br>
 
