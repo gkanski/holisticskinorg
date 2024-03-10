@@ -19,7 +19,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 Fundacja zaprasza utalentowanych Kosmetologów do publikowania artykułów na stronach Holistic Skin i dzielenia się swoją wiedzą i zdobytymi doświadczeniami.
 {{< /item >}}
 
-{{< item icon="star" header="FUNDATOR" subheader="Beata Rucka-Kańska" more="/onas/fundator/" >}}
+{{< item icon="star" header="FUNDATORKA" subheader="Beata Rucka-Kańska" more="/onas/fundator/" >}}
 Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego dla Kosmetologów SKINLIVE® we Wrocławiu.
 {{< /item >}}
 
