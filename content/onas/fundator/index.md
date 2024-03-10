@@ -10,7 +10,7 @@ summary: "Fundator"
 ---
 
 {{< lead >}}
-Fundator
+Fundatorka
 {{< /lead >}}
 
 Fundatorka Fundacji Holistic Skin. Pomysłodawczyni i Spiritus Movens Sympozjum Naukowego dla Kosmetologów [SKINLIVE<sup>&reg;</sup>](/projekty/skinlive).
