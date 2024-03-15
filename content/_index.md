@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-08.03.2024: Nowy artykuł Joanny Pietraś pt. "Slugging - wazelinowanie twarzy - dla kogo?" <a href="/artykuly/30jpietras">przeczytasz tutaj...</a><br>
+15.03.2024: Nowy artykuł Julii Czerwińskiej pt. "Trądzik zaskórnikowy - kiedy niewielkie zmiany stają się problemem." <a href="/artykuly/31jczerwinska">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>

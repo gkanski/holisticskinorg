@@ -4,7 +4,7 @@ date: 2023-03-14
 draft: false
 description: ""
 showDate: true
-tags: [Natalia Galas, Trądzik Różowaty]
+tags: [Natalia Galas, Trądzik]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
