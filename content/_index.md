@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-15.03.2024: Nowy artykuł Julii Czerwińskiej pt. "Trądzik zaskórnikowy - kiedy niewielkie zmiany stają się problemem." <a href="/artykuly/31jczerwinska">przeczytasz tutaj...</a><br>
+20.03.2024: Nowy artykuł Agnieszka Mus pt. "Koreański świat beauty – poznajmy go bliżej" <a href="/artykuly/32amus">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>

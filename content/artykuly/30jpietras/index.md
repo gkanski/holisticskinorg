@@ -22,7 +22,7 @@ dodatkowej uwagi.
 
 W mediach społecznościowych popularnym trendem stał się tzw. slugging, czyli nakładanie wazeliny na całą twarz.
 
-**Co to jest slugging?**
+## Co to jest slugging?
 
 Slugging to koreański trend w pielęgnacji twarzy polegający na włączeniu do rutyny jednego kosmetyku – wazeliny. Od dłuższego czasu pojawia się w rutynach pielęgnacyjnych K-beauty, gdzie wykorzystuje się go na przykład do uzyskania efektu „glass skin”. Jest zalecany do stosowania jako ostatni etap pielęgnacji, tuż po nałożeniu kremu na twarz.
 
@@ -32,11 +32,11 @@ Slugging twarzy najlepiej sprawdzi się w okresie jesienno-zimowym, kiedy cera n
 
 Wykonując slugging twarzy, możemy zauważyć wyraźne efekty wygładzenia cery. Jednak należy pamiętać, aby nie nakładać zbyt grubej warstwy wazeliny na noc i koniecznie oczyścić twarz o poranku.
 
-**Slugging twarzy- dla kogo ?**
+## Slugging twarzy- dla kogo ?
 
 O tym, czy wazelina jest dobra na twarz, decyduje w głównej mierze rodzaj skóry. Wazelinowanie nie jest zalecane przy skórze trądzikowej, tłustej i problematycznej. Dlaczego ? Petrolatum- wazelina uznawana jest za produkt aknegenny czyli zaostrzający trądzik. Ciągła okluzja utrudnia dostęp tlenu do skóry, przez co bakterie beztlenowe mogą zacząć się szybciej namnażać. Wazelina nie ma jednak działania komedogennego, a to znaczy, że nie powoduje powstawania zaskórników. Slugging może genialnie sprawdzić się w pielęgnacji skóry suchej, wrażliwej i atopowej. Pomaga odbudować naturalną warstwę ochronną naskórka oraz zabezpiecza skórę przed nadmiernym odparowywaniem wody, a tym samym przed jej odwodnieniem.
 
-**Jak wykonać slugging?**
+## Jak wykonać slugging?
 
 - Wykonaj dokładny demakijaż (płyn micelarny, olejek myjący)
 - Umyj skórę twarzy delikatnym żelem lub pianką do mycia twarzy.
@@ -47,7 +47,7 @@ O tym, czy wazelina jest dobra na twarz, decyduje w głównej mierze rodzaj skó
 
 Należy pamiętać, że slugging jest rytuałem do sporadycznego stosowania. Wazelinę wystarczy użyć na twarz 1-2 razy w tygodniu, aby poczuć efekty jej dobroczynnego działania. Jeżeli chcemy wykonać wazelinowanie twarzy latem, wykonujmy go 2 razy w miesiącu. W pielęgnacji kończącej się wazeliną powinnyśmy unikać olejków do twarzy, kuracji punktowych lub substancji aktywnych, takich jak retinoidy, kwasy AHA i BHA. Intensyfikowałoby to działanie aktywnych substancji drażniących.
 
-**Podsumowanie**
+## Podsumowanie
 
 Slugging to prosty zabieg, który przynosi ulgę w podrażnieniach, zmiękcza
 skórę, wspomaga procesy regeneracyjne i ma działanie odmładzające, jednak
@@ -55,7 +55,7 @@ nie jest opcją dla każdego rodzaju cery. Należy pamiętać, że za każdym
 problemem skórnym stoi jakaś przyczyna, a najlepszym rozwiązaniem jest
 konsultacja z lekarzem dermatologiem lub kosmetologiem.
 
-**Bibliografia**
+## Bibliografia
 1. Arct J., Pytkowska K., Ratz-kyko A. i wsp. Leksykon surowców kosmetycznych. Wyższa Szkoła Zawodowa Kosmetyki i Pielęgnacji Zdrowia. Warszawa 2014.
 2. Glinka R., Glinka M. „Receptura kosmetyczna z elementami kosmetologii” tom I, Łódź 2008.
 3. Baumann L., Dermatologia estetyczna. Wydawnictwo Lekarskie PZWL, Warszawa 2013.
