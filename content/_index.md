@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-21.03.2024: Nowy artykuł Moniki Potaczek pt. "Jak odbudować zaburzony płaszcz hydrolipidowy skóry - polecane składniki kosmetyków" <a href="/artykuly/33mpotaczek">przeczytasz tutaj...</a><br>
+20.03.2024: Nowy artykuł Agnieszki Mus pt. "Koreański świat beauty – poznajmy go bliżej" <a href="/artykuly/32amus">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
