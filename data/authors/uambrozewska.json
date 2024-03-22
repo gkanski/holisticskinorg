@@ -1,0 +1,10 @@
+{
+    "name": "Urszula Ambrożewska",
+    "image" : "img/uambrozewska.jpg",
+    "bio": "Absolwentka Wyższej Szkoły Pedagogicznej w Białymstoku. Mgr Kosmetologii Wyższej Szkoły Medycznej w Białymstoku z wieloletnim doświadczeniem w branży beauty. Właścicielka Kliniki Piękna, wielokrotna finalistka Międzynarodowych Mistrzostw PMU z wieloma osiągnięciami na poziomie światowym, która od lat odpowiada na potrzeby kobiet, sprawując, że czują się jeszcze piękniejsze. Z ogromnej pasji do piękna stworzyła swoje wymarzone miejsce na mapie Białegostoku, gdzie każdego dnia uśmiech zadowolonego klienta daje jej prawdziwe spełnienie zawodowe. “Jeśli coś powstaje z serca, nie ma prawa się nie udać”. I tak od blisko 20 lat z ogromnym sukcesem działa Klinika Piękna.",
+    "social": [
+        { "instagram": "https://www.instagram.com/klinikapiekna_ambrozewska/" },
+        { "facebook": "https://www.facebook.com/profile.php?id=100063639097895" },
+        { "link": "https://klinikapiekna.eu/" }
+    ]
+}

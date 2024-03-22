@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-20.03.2024: Nowy artykuł Agnieszki Mus pt. "Koreański świat beauty – poznajmy go bliżej" <a href="/artykuly/32amus">przeczytasz tutaj...</a><br>
+22.03.2024: Nowy artykuł Urszuli Ambrożewskiej pt. "Skuteczne rozwiązania w redukcji przebarwień w salonie kosmetycznym" <a href="/artykuly/34uambrozewska">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
