@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-22.03.2024: Nowy artykuł Urszuli Ambrożewskiej pt. "Skuteczne rozwiązania w redukcji przebarwień w salonie kosmetycznym" <a href="/artykuly/34uambrozewska">przeczytasz tutaj...</a><br>
+23.03.2024: Nowy artykuł Karoliny Ambrożewskiej pt. "Możliwe powikłania po zabiegach z wykorzystaniem peelingów chemicznych" <a href="/artykuly/35kambrozewska">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
