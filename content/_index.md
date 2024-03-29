@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-23.03.2024: Nowy artykuł Karoliny Ambrożewskiej pt. "Możliwe powikłania po zabiegach z wykorzystaniem peelingów chemicznych" <a href="/artykuly/35kambrozewska">przeczytasz tutaj...</a><br>
+29.03.2024: Nowy artykuł Natalii Kalinowskiej pt. "Prawidłowa Diagnostyka Trychologiczna Kluczem do Sukcesu" <a href="/artykuly/36nkalinowska">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
