@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-29.03.2024: Nowy artykuł Natalii Kalinowskiej pt. "Prawidłowa Diagnostyka Trychologiczna Kluczem do Sukcesu" <a href="/artykuly/36nkalinowska">przeczytasz tutaj...</a><br>
+06.04.2024: Nowy artykuł Aleksandry Tańcula pt. "Jakie powiązanie ma zespół policystycznych jajników z trądzikiem?" <a href="/artykuly/37atancula">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
