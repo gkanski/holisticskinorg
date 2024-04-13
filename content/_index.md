@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-06.04.2024: Nowy artykuł Aleksandry Tańcula pt. "Jakie powiązanie ma zespół policystycznych jajników z trądzikiem?" <a href="/artykuly/37atancula">przeczytasz tutaj...</a><br>
+14.04.2024: Nowy artykuł Katarzyny Gargol pt. "Łuszczyca - czy stanowi jedynie defekt estetycznym?" <a href="/artykuly/38kgargol">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
