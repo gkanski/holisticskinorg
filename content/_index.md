@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-14.04.2024: Nowy artykuł Katarzyny Gargol pt. "Łuszczyca - czy stanowi jedynie defekt estetycznym?" <a href="/artykuly/38kgargol">przeczytasz tutaj...</a><br>
+19.04.2024: Nowy artykuł Natalii Totko-Borkusiewicz pt. "Hormonalne przyczyny trądziku" <a href="/artykuly/39ntotko">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
