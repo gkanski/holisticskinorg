@@ -21,15 +21,14 @@ Mgr Dominika Salamandra
 Wpływ wielonienasyconych kwasów tłuszczowych (PUFA) na zdrowie bada się od kilkudziesięciu lat. Kwasy omega-3 to wielonienasycone kwasy tłuszczowe, do których zaliczamy:kwas α-linolenowy (ALA), kwas stearydonowy (SDA), kwas eikozapentaenowy (EPA), kwas dokozapentaenowy (DPA) i kwas dokozaheksaenowy (DHA). ALA występuje przede wszystkim w orzechach i nasionach, natomiast EPA i DHA są głównymi składnikami oleju rybnego.
 
 W teorii organizm jest w stanie samodzielnie wytworzyć z kwasu ALA: EPA (który powstaje w wątrobie po konwersji z kwasu ALA), kwas DHA (który powstaje w wątrobie po konwersji z kwasu EPA), natomiast skuteczność tych konwersji wynosi od 2 do 10%, dlatego w szczególności kwas DHA i EPA powinien być przyjmowany w suplementacji przez każdego człowieka.
-## Wpływ kwasów omega-3 na skórę
 
+## Wpływ kwasów omega-3 na skórę
 Suplementacja kwasów omega 3 będzie pomocna w takich problemach skórnych jak: trądzik pospolity, trądzik dojrzały, trądzik różowaty, AZS, łuszczyca, przebarwienia, rumień, sucha skóra czy przedwczesne starzenie skóry.
 
 Kwasy omega 3:
 - Wpływają na prawidłową elastyczność błony komórkowej, poprzez zbudowanie się w jej strukturę, co jest kluczowe dla prawidłowego wchłaniania składników odżywczych do komórki oraz usuwania metabolitów, dodatkowo sprawnie działająca błona komórkowa umożliwia prawidłową syntezę kwasu hialuronowego (który powstaje na błonie komórkowej fibroblastów), odpowiedzialnego za wiązanie wody w skórze właściwej, nawilżenie i wygładzenie skóry.
 - Poprzez wpływ na profil lipidowy mają działanie wzmacniające cement międzykomórkowy skóry, który w 25% składa się z cholesterolu oraz siarczanu cholesterolu, dzięki czemu następuje ograniczenie TEWL oraz większa ochrona przed czynnikami zewnętrznymi oraz mniejsze zaczerwienienie, podrażnienie skóry, oraz poprawa bariery ochronnej. Wykazują w tym aspekcie również działanie pośrednie - w wyniku suplementacji pozytywnie wpływają na jelita, a co za tym idzie zwiększają produkcję SCFA, który również pozytywnie wpływa na profil lipidowy skóry, wspierają mikrobiom jelitowy, który powiązany jest z mikrobiomem skóry, kluczowym w terapi wielu dermatoz skórnych.
-- W przypadku trądziku wykazują wysoki potencjał przeciwzapalny na kilku
-płaszczyznach:
+- W przypadku trądziku wykazują wysoki potencjał przeciwzapalny na kilku płaszczyznach:
 - Cutibacterium acnes wpływają na ekspresję receptorów TLR2 i TLR4 (białka, które odpowiadają za odpowiedź immunologiczną m.in na makrofagach czy keratnocytach) w efekcie dochodzi do nadmiernego namnażania keratynocytów i rozwoju stanu zapalnego (poprzez udział B-defensyn). Kwasy omega 3 hamują aktywację receptorów TLR2 i TLR4 zmniejszając tym samym stan zapalny.
 - Leukotrien B4- czynnik zaostrzający stan zapalny w trądziku, powstaje z kwasu arachidonowego (omega 6 dostarczany wraz z dietą) w jednostce włosowo-łojowej. Omega 3 - a dokładniej EPA hamuje wytwarzanie LTB4 z kwasu arachidonowego, tym samym hamując rozwój stanu zapalnego. Dodatkowo nadmiar kwasu arachidonowego (omega 6) zmniejsza wytwarzanie przeciwzapalnej prostaglandyny PGE2.
 - W nasileniu zmian trądzikowych ma również udział czynnik IGF1, który jest podwyższony m.in w wyniku podwyższonej insuliny czy hormonu wzrostu (w okresie dojrzewania), ma swoje receptory na sebocytach oraz indukuje cytokiny prozapalne jak IL6, IL8 czy TNF-L. Kwasy omega 3 mają zdolność obniżania IGF1 oraz zwiększają poziom białka, który wiąże dodatkowo IGF1, dzięki czemu zmniejszają ilość zmian trądzikowych, ponadto obniżają IL6, IL8 i TNFL, które stoją u podstaw rozwoju zmian w trądziku. Poprawiają również wrażliwość receptora dla insuliny, co przekłada się na poprawę parametrów gospodarki węglowodanowej, która jest częstą przyczyną trądziku.
@@ -47,9 +46,9 @@ Kwasy Omega-3 wykazują wysoką aktywność biologiczną na poziomie molekularny
 3. Djuricic I, Calder PC. Beneficial Outcomes of Omega-6 and Omega-3 Polyunsaturated Fatty Acids on Human Health: An Update for 2021. Nutrients. 2021 Jul 15;13(7):2421. doi: 10.3390/nu13072421. PMID: 34371930; PMCID: PMC8308533.
 4. Rubin MG, Kim K, Logan AC. Acne vulgaris, mental health and omega-3 fatty acids: a report of cases. Lipids Health Dis. 2008 Oct 13;7:36. doi: 10.1186/1476-511X-7-36. PMID: 18851733; PMCID: PMC2577647.
 5. Sawada Y, Saito-Sasaki N, Nakamura M. Omega 3 Fatty Acid and Skin Diseases. Front Immunol. 2021 Feb 5;11:623052. doi: 10.3389/fimmu.2020.623052. PMID: 33613558; PMCID: PMC7892455
-6. https://www.termedia.pl/Clinical-evaluation-of-omega-3-fatty-acids-in-psoriasis,56,30259,0,1.html
-7. https://medicaljournalssweden.se/actadv/article/view/6412/9675
-8. https://www.researchgate.net/publication/270960751_Kwasy_omega_3_i_6_w_medycynie_i_kosmetologii_Wplyw_doustnej_suplementacji_kwasami_omega-3_i_6_na_kondycje_skory_-_badanie_pilotazowe_Omega-3_and_6_acids_in_medicine_and_cosmetology_The_effect_of_oral_
-9. http://www.h-ph.pl/pdf/hyg-2017/hyg-2017-2-131.pdf
+6. [www.termedia.pl](https://www.termedia.pl/Clinical-evaluation-of-omega-3-fatty-acids-in-psoriasis,56,30259,0,1.html)
+7. [medicaljournalssweden.se](https://medicaljournalssweden.se/actadv/article/view/6412/9675)
+8. [www.researchgate.net](https://www.researchgate.net/publication/270960751_Kwasy_omega_3_i_6_w_medycynie_i_kosmetologii_Wplyw_doustnej_suplementacji_kwasami_omega-3_i_6_na_kondycje_skory_-_badanie_pilotazowe_Omega-3_and_6_acids_in_medicine_and_cosmetology_The_effect_of_oral_)
+9. [www.h-ph.pl](http://www.h-ph.pl/pdf/hyg-2017/hyg-2017-2-131.pdf)
 10. Agata Zefer, Anna Parzychowska-Parol,PZWL, Warszawa, 2023
-11.  Blackburn Elisabeth, Telomery i zdrowie, Galaktyka
+11. Blackburn Elisabeth, Telomery i zdrowie, Galaktyka
