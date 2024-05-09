@@ -9,7 +9,7 @@ heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
- - dsalamandra
+- dsalamandra
 summary: "Dominika Salamandra"
 ---
 

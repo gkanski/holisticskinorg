@@ -9,7 +9,7 @@ heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
- - dsalamandra
+- dsalamandra
 summary: "Dominika Salamandra"
 ---
 
@@ -21,8 +21,8 @@ Mgr Dominika Salamandra
 Wpływ wielonienasyconych kwasów tłuszczowych (PUFA) na zdrowie bada się od kilkudziesięciu lat. Kwasy omega-3 to wielonienasycone kwasy tłuszczowe, do których zaliczamy:kwas α-linolenowy (ALA), kwas stearydonowy (SDA), kwas eikozapentaenowy (EPA), kwas dokozapentaenowy (DPA) i kwas dokozaheksaenowy (DHA). ALA występuje przede wszystkim w orzechach i nasionach, natomiast EPA i DHA są głównymi składnikami oleju rybnego.
 
 W teorii organizm jest w stanie samodzielnie wytworzyć z kwasu ALA: EPA (który powstaje w wątrobie po konwersji z kwasu ALA), kwas DHA (który powstaje w wątrobie po konwersji z kwasu EPA), natomiast skuteczność tych konwersji wynosi od 2 do 10%, dlatego w szczególności kwas DHA i EPA powinien być przyjmowany w suplementacji przez każdego człowieka.
-
 ## Wpływ kwasów omega-3 na skórę
+
 Suplementacja kwasów omega 3 będzie pomocna w takich problemach skórnych jak: trądzik pospolity, trądzik dojrzały, trądzik różowaty, AZS, łuszczyca, przebarwienia, rumień, sucha skóra czy przedwczesne starzenie skóry.
 
 Kwasy omega 3:
