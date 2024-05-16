@@ -1,0 +1,9 @@
+{
+    "name": "Patrycja Pietraszko",
+    "image" : "img/ppietraszko.jpg",
+    "bio": "Studentka kosmetologii w Bielskiej Wyższej Szkole im. Józefa Tyszkiewicza. Specjalizuje się w pielęgnacji skóry twarzy i ciała w pojęciu holistycznym. Ambasadorka LNE, autorka artykułów z zakresu kosmetologii pielęgnacyjnej. Pasjonatka świadomej pielęgnacji i indywidualnego podejścia do potrzeb i oczekiwań klienta.",
+    "social": [
+        { "instagram": "https://www.instagram.com/pietraszkokosmetologia/" },
+        { "facebook": "https://www.facebook.com/profile.php?id=100091508392599" }
+    ]
+}

@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-10.05.2024: Nowy artykuł Dominiki Salamandra pt. "Zastosowanie kwasów omega-3 w terapiach skór problematycznych" <a href="/artykuly/40dsalamandra">przeczytasz tutaj...</a><br>
+17.05.2024: Nowy artykuł Patrycji Pietraszko pt. "Holistyczne podejście do skóry - dlaczego jest aż tak ważne?" <a href="/artykuly/41ppietraszko">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
