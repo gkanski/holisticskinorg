@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-24.05.2024: Nowy artykuł Martyny Martynowicz pt. "Substancje senolityczne w pielęgnacji skóry" <a href="/artykuly/42mmartynowicz">przeczytasz tutaj...</a><br>
+31.05.2024: Nowy artykuł Anny Rembiszewskiej pt. "Czy bielactwo ma wpływ na nasz układ wzrokowy?" <a href="/artykuly/43bryloteka">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
