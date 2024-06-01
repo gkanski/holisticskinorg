@@ -24,11 +24,10 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 {{< /item >}}
 
 {{< item icon="heart-empty" header="PARTNERZY" subheader="Partnerzy Fundacji" more="/partnerzy/" >}}
+:small_blue_diamond:Daria Mięczewska - Prawnik Med&Beauty<br>
 :small_blue_diamond:Milena Nosek - Dietetyka<br>
 :small_blue_diamond:Anna Doliwa - Psychologia<br>
 :small_blue_diamond:Paloma Cekowska - Marketing<br>
-:small_blue_diamond:Sandra Ogrodniczak - Social Media<br>
-:small_blue_diamond:Bartosz Tryczyński - Radca Prawny<br>
 :small_blue_diamond:Grzegorz Kański - Prezes Zarządu / IT
 {{< /item >}}
 

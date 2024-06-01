@@ -1,7 +1,7 @@
 ---
 title: "Sandra Ogrodniczak"
 date: 2023-01-20
-draft: false
+draft: true
 description: "Sandra Ogrodniczak - Social Media"
 showDate: false
 heroStyle: "background"

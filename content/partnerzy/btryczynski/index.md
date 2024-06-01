@@ -1,7 +1,7 @@
 ---
 title: "Bartosz Tryczyński"
 date: 2023-02-01
-draft: false
+draft: true
 description: "Bartosz Tryczyński - Radca Prawny"
 showDate: false
 heroStyle: "background"
