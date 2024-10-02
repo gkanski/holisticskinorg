@@ -1,0 +1,10 @@
+{
+    "name": "Małgorzata Wojtyczka",
+    "image" : "img/mwojtyczka.jpg",
+    "bio": "Magister kosmetologii, opiekun medyczny, studentka ostatniego roku pielęgniarstwa, właścicielka dwóch gabinetów Kosmetologii Estetycznej. Członkini Stowarzyszenia \"Przyjazna Kosmetyka\" oraz Międzynarodowego Stowarzyszenia Mezoterapii IAM. Specjalizuje się w zabiegach z zakresu kosmetologii estetycznej, a także laseroterapii.",
+    "social": [
+        { "instagram": "https://instagram.com/mw.kosmetologia/" },
+        { "facebook": "https://www.facebook.com/emotifstyle/" },
+        { "link": "https://www.facebook.com/kosmetologialutynia/" }
+    ]
+}

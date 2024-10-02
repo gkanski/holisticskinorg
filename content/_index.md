@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-31.05.2024: Nowy artykuł Anny Rembiszewskiej pt. "Czy bielactwo ma wpływ na nasz układ wzrokowy?" <a href="/artykuly/43bryloteka">przeczytasz tutaj...</a><br>
+02.10.2024: Nowy artykuł Małgorzaty Wojtyczka pt. "Zabieg mezoterapii igłowej - mechanizm działania, wskazania do zabiegów, substancje aktywne." <a href="/artykuly/44mwojtyczka">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
