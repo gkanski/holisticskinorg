@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-02.10.2024: Nowy artykuł Małgorzaty Wojtyczka pt. "Zabieg mezoterapii igłowej - mechanizm działania, wskazania do zabiegów, substancje aktywne." <a href="/artykuly/44mwojtyczka">przeczytasz tutaj...</a><br>
+11.10.2024: Nowy artykuł Dominika Kłudkiewicza pt. "Parafina w kosmetykach okiem chemika." <a href="/artykuly/45dkludkiewicz">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
