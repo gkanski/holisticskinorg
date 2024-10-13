@@ -1,0 +1,18 @@
+{
+    "name": "Beata Rucka-Kańska",
+    "image": "img/bkanska.jpg",
+    "bio": "<p>Fundatorka Fundacji Holistic Skin. Pomysłodawczyni i organizator Sympozjum Naukowego dla Kosmetologów SKINLIVE®</p><p>Ekspertka kosmetologii z doświadczeniami zawodowymi współpracy z lekarzami wielu specjalności. Jej pasją są terapie anti-aging, od 22 lat prowadzi własny gabinet, specjalizuje się w zabiegach z przerywaną ciągłością skóry oraz terapiach łączonych.</p><p>Szkoleniowiec, który certyfikował setki uznanych kosmetologów. Priorytetem jej działalności szkoleniowej są: bezpieczeństwo i indywidualne podejście do klienta, personalizowanie zabiegów, rzetelne przekazanie wiedzy z dużą dawką zajęć praktycznych. Certyfikowana instruktorka praktycznej nauki zawodu z uprawnieniami kształcenia osób dorosłych na uczelniach wyższych.</p><p>Pasjonatka holistycznego podejścia do skóry, wierząca w synergię działania procedur kosmetologicznych, suplementacji i wnikliwego obrazu organizmu.</p>",
+    "social": [
+        { "instagram": "https://instagram.com/sympozjumskinlive" },
+        { "facebook": "https://facebook.com/sympozjumskinlive" },
+        { "link": "https://skinlive.pl/" },
+        { "youtube": "https://www.youtube.com/@skinlive" },
+        { "instagram": "https://instagram.com/kanskaeu" },
+        { "facebook": "https://facebook.com/kanskaeu" },
+        { "link": "https://kanska.eu/" },
+        { "facebook": "https://facebook.com/kanskapl" },
+        { "instagram": "https://instagram.com/holisticskinorg" },
+        { "facebook": "https://facebook.com/holisticskinorg" },
+        { "link": "https://holisticskin.org/" }
+ ]
+}
