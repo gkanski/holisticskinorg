@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-13.10.2024: Nowy artykuł Beaty Ruckiej-Kańskiej pt. "Działanie i skuteczność probiotyków w terapiach zabiegowych." <a href="/artykuly/46bkanska">przeczytasz tutaj...</a><br>
+22.10.2024: Nowy artykuł Moniki Potaczek pt. "Jak odbudować zaburzony płaszcz hydrolipidowy skóry - polecane składniki kosmetyków." <a href="/artykuly/33mpotaczek">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>

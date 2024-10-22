@@ -1,7 +1,7 @@
 ---
 title: "Jak odbudować zaburzony płaszcz hydrolipidowy skóry - polecane składniki kosmetyków"
-date: 2024-03-21
-draft: true
+date: 2024-10-22
+draft: false
 description: ""
 showDate: true
 tags: [Monika Potaczek, Płaszcz Hydrolipidowy]
@@ -12,6 +12,10 @@ authors:
  - mpotaczek
 summary: "Monika Potaczek"
 ---
+
+{{< lead >}}
+Monika Potaczek
+{{< /lead >}}
 
 ## Poznaj płaszcz hydrolipidowy skóry
 
