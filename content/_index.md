@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-31.10.2024: Nowy artykuł Martyny Martynowicz pt. "Retinoidy - czy są dla każdego?" <a href="/artykuly/47mmartynowicz">przeczytasz tutaj...</a><br>
+15.11.2024: Nowy artykuł Dominika Salamandra pt. "Zaburzenia gospodarki glukozowo-insulinowej, a wpływ na kondycję skóry" <a href="/artykuly/48dsalamandra">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>
