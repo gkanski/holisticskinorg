@@ -4,7 +4,7 @@ date: 2024-11-15
 draft: false
 description: ""
 showDate: true
-tags: [Dominika Salamandra, gospodarka glukozowo-insulinowa]
+tags: [Dominika Salamandra, Gospodarka glukozowo-insulinowa]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false

@@ -4,7 +4,7 @@ date: 2024-10-22
 draft: false
 description: ""
 showDate: true
-tags: [Monika Potaczek, Płaszcz Hydrolipidowy]
+tags: [Monika Potaczek, Płaszcz hydrolipidowy]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
