@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-02.12.2024: Nowy artykuł Anny Kukowskiej pt. "Rola emolientów w pielęgnacji skóry atopowej" <a href="/artykuly/49akukowska">przeczytasz tutaj...</a><br>
+06.12.2024: Nowy artykuł Małgorzaty Szczepaniak pt. "Pielęgnacja skóry twarzy z łuszczycą" <a href="/artykuly/50mszczepaniak">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>

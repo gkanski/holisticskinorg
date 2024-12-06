@@ -1,0 +1,10 @@
+{
+    "name": "Małgorzata Szczepaniak",
+    "image" : "img/mszczepaniak.jpg",
+    "bio": "Absolwentka Uniwersytetu Pomorskiego w Słupsku na kierunku kosmetologia. Zabiegowiec z kilkuletnim doświadczeniem, aktualnie prowadzi własny gabinet. Od początku swojej pracy kieruje się ideą kosmetologii holistycznej, wiedząc, że stan skóry jest często wynikiem stanu wewnętrznego organizmu. Specjalizuje się w terapiach skór problematycznych, szczególnie trądzikowych, zaburzonych czy uwrażliwionych. Uwielbia edukować i szerzyć świadomość odnośnie odpowiedniej pielęgnacji skóry, nie tylko w gabinecie, ale także w mediach społecznościowych, gdzie aktywnie się udziela.",
+    "social": [
+        { "instagram": "https://www.instagram.com/gosia_kosmetologicznie/" },
+        { "tiktok": "https://www.tiktok.com/@gosia_kosmetologicznie/" },
+        { "facebook": "https://www.facebook.com/Malgo.Beauty/" }
+    ]
+}
