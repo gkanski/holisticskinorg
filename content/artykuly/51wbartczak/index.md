@@ -4,17 +4,17 @@ date: 2024-12-28
 draft: false
 description: ""
 showDate: true
-tags: [Wioleta Bartczak, Bariera naskórkowa]
+tags: [Wiola Bartczak, Bariera naskórkowa]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
 - wbartczak
-summary: "Wioleta Bartczak"
+summary: "Wiola Bartczak"
 ---
 
 {{< lead >}}
-Mgr Wioleta Bartczak
+Mgr Wiola Bartczak
 {{< /lead >}}
 
 Równowaga bariery hydrolipidowej jest niezbędna do sprawnego funkcjonowania całej skóry, a głównie ochrony przed potencjalnymi zagrożeniami spowodowanymi działaniem czynników zewnętrznych, w tym chemicznych, biologicznych i fizycznych.
