@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-06.12.2024: Nowy artykuł Małgorzaty Szczepaniak pt. "Pielęgnacja skóry twarzy z łuszczycą" <a href="/artykuly/50mszczepaniak">przeczytasz tutaj...</a><br>
+28.12.2024: Nowy artykuł Wiolety Bartczak pt. "Działania niesprzyjające barierze naskórkowej" <a href="/artykuly/51wbartczak">przeczytasz tutaj...</a><br>
 {{< /alert >}}
 
 <br>

@@ -1,0 +1,9 @@
+{
+    "name": "Wioleta Bartczak",
+    "image" : "img/wbartczak.jpg",
+    "bio": "Magister kosmetologii i socjologii, technik usług kosmetycznych. Twórczyni internetowych treści edukacyjnych o pielęgnacji skóry twarzy. W swoim gabinecie pracuje w nurcie holistycznym. Poza właściwymi kosmetykami i zabiegami gabinetowymi równie ważny jest dla niej zdrowy organizm, styl życia, odpowiednia dieta i suplementacja. Pasjonatka naturalnego podejścia do skóry, bez konieczności stosowania zabiegów inwazyjnych.",
+    "social": [
+        { "instagram": "https://www.instagram.com/nababskieoko/" },
+        { "facebook": "https://www.facebook.com/nababskieoko/" }
+    ]
+}
