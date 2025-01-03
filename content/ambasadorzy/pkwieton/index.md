@@ -2,16 +2,16 @@
 title: "Paulina Kwietoń"
 date: 2023-08-25
 draft: false
-description: "Paulina Kwietoń - Ambasador ds. bielactwa"
+description: "Paulina Kwietoń - Ambasadorka ds. bielactwa"
 showDate: false
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
  - pkwieton
-summary: "Ambasador ds. bielactwa"
+summary: "Ambasadorka ds. bielactwa"
 ---
 
 {{< lead >}}
-Ambasador ds. bielactwa
+Ambasadorka ds. bielactwa
 {{< /lead >}}
