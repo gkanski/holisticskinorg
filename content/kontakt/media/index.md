@@ -28,7 +28,7 @@ summary: "Social media<br>E-mail, telefon<br>Adres pocztowy"
 {{< /lead >}}
 
 {{< lead >}}
- - **Tel.**: +48 881 543 210
+ - **Tel.**: +48 508 288 599
 {{< /lead >}}
 
 ## Adres siedziby

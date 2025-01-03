@@ -1,7 +1,7 @@
 ---
 title: "Milena Nosek"
 date: 2024-02-04
-draft: false
+draft: true
 description: "Milena Nosek - Dietetyka"
 showDate: false
 heroStyle: "background"

@@ -1,7 +1,7 @@
 ---
 title: "Paloma Cekowska"
 date: 2023-02-02
-draft: false
+draft: true
 description: "Paloma Cekowska - Marketing"
 showDate: false
 heroStyle: "background"

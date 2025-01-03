@@ -1,7 +1,7 @@
 ---
 title: "Anna Doliwa"
 date: 2024-02-02
-draft: false
+draft: true
 description: "Anna Doliwa - Psychologia"
 showDate: false
 heroStyle: "background"

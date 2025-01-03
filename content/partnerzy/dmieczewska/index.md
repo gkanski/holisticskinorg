@@ -1,7 +1,7 @@
 ---
 title: "Daria Mięczewska"
 date: 2024-05-31
-draft: false
+draft: true
 description: "Daria Mięczewska - Prawnik Med&Beauty"
 showDate: false
 heroStyle: "background"
