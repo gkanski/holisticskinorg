@@ -10,7 +10,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 <p></p>
 
 {{< lead >}}
-Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Magdalena Dyrda** jako Partnerka ds. Merytoryczno-Dydaktycznych oraz **Wioleta Słodka** jako Partnerka ds. Marketingu.
+Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Magdalena Dyrda (EXPERT COSMETOLOG)** jako Partnerka ds. Merytoryczno-Dydaktycznych oraz **Wioleta Słodka** jako Partnerka ds. Marketingu.
 Cieszymy się, że możemy wspólnie działać na rzecz rozwoju holistycznej kosmetologii i edukacji w branży Beauty.
 {{< /lead >}}
 

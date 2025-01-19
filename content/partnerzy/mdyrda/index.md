@@ -1,5 +1,5 @@
 ---
-title: "Magdalena Dyrda"
+title: "Magdalena Dyrda (EXPERT COSMETOLOG)"
 date: 2025-01-02
 draft: false
 description: "Mgr Magdalena Dyrda - Partnerka ds. Merytoryczno-Dydaktycznych"

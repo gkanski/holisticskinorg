@@ -10,7 +10,7 @@ layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
  - mdyrda
-summary: "Magdalena Dyrda"
+summary: "Magdalena Dyrda (EXPERT COSMETOLOG)"
 ---
 
 {{< lead >}}
