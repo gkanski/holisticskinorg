@@ -10,12 +10,15 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 <p></p>
 
 {{< lead >}}
-Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Magdalena Dyrda (EXPERT COSMETOLOG)** jako Partnerka ds. Merytoryczno-Dydaktycznych oraz **Wioleta Słodka** jako Partnerka ds. Marketingu.
+Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Magdalena Dyrda (EXPERT COSMETOLOG)** jako Partnerka ds. Merytoryczno-Dydaktycznych, **Wioleta Słodka** jako Partnerka ds. Marketingu oraz **Katarzyna Śliwka** jako Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych.
 Cieszymy się, że możemy wspólnie działać na rzecz rozwoju holistycznej kosmetologii i edukacji w branży Beauty.
 {{< /lead >}}
 
 {{< article link="/partnerzy/mdyrda/" >}}
+<br>
 {{< article link="/partnerzy/wslodka/" >}}
+<br>
+{{< article link="/ambasadorzy/ksliwka/" >}}
 
 {{< lead >}}
 💬 Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami!
@@ -45,7 +48,8 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 {{< /item >}}
 
 {{< item icon="heart-empty" header="AMBASADORZY" subheader="Ambasadorzy Fundacji" badge="NEWS" more="/ambasadorzy/" >}}
-:small_blue_diamond:Paulina Kwietoń - Ambasador ds. bielactwa
+:small_blue_diamond:Paulina Kwietoń - Ambasadorka ds. Bielactwa i Warsztatów Dydaktycznych<br>
+:small_blue_diamond:Katarzyna Śliwka - Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych<br>
 {{< /item >}}
 
 {{< /items >}}

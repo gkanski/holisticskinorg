@@ -1,0 +1,9 @@
+{
+    "name": "Katarzyna Śliwka",
+    "image" : "img/ksliwka.jpg",
+    "bio": "Magister kosmetologii, dyplomowany dietoterapeuta, absolwentka Uniwersytetu Jagiellońskiego CM w Krakowie oraz ŚUM w Katowicach. Specjalizuje się w zabiegach skór problematycznych oraz przeciwstarzeniowych, opierających się na zasadzie kosmetologii holistycznej. Swoje wieloletnie doświadczenie zdobywała pracując w wielu klinikach medycyny estetycznej, współpracując z lekarzami różnych specjalizacji.",
+    "social": [
+        { "instagram": "https://www.instagram.com/kasia_sliwka_kosmetologia/" },
+        { "facebook": "https://www.facebook.com/kasiasliwkakosmetologia/" }
+    ]
+} 
