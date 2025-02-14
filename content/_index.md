@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-28.12.2024: Nowy artykuł Wioli Bartczak pt. "Działania niesprzyjające barierze naskórkowej" <a href="/artykuly/51wbartczak">przeczytasz tutaj...</a>
+14.02.2025: Nowy artykuł Natalii Messina pt. "Polifenole winorośli: potencjał i działanie w kosmetykach do pielęgnacji skóry." <a href="/artykuly/52nmessina">przeczytasz tutaj...</a>
 {{< /alert >}}
 
 <p></p>

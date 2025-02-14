@@ -1,0 +1,9 @@
+{
+    "name": "Natalia Messina",
+    "image" : "img/nmessina.jpg",
+    "bio": "Farmaceutka, enolog, właścicielka skinimalistycznej marki kosmetycznej Vitigna SkinLove. Pasjonatka skutecznej pielęgnacji, wina i Włoch. Zdobytą na kierunku enologicznym wiedzę, połączyła z farmacją oraz miłością do skóry - tak powstała marka kosmetyczna, która opiera się na idei skin minimalizmu - mniej znaczy piękniej. Jej kosmetyki wyróżniają bogate składy, wielokierunkowe działanie na skórę oraz widoczne efekty stosowania. Vitigna SkinLove utożsamia radość z życia, miłość do natury i pasję do nauki.",
+    "social": [
+        { "instagram": "https://www.instagram.com/vitigna_skinlove/" },
+        { "facebook": "https://www.facebook.com/profile.php?id=100093046584469" }
+    ]
+}
