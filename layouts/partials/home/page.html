@@ -6,7 +6,7 @@
   {{ end }}
   <section>{{ .Content | emojify }}</section>
   <footer class="flex flex-col items-center mb-3">
-    {{ with .Site.Author.image }}
+    {{ with .Site.Params.Author.image }}
       {{ $authorImage := resources.Get . }}
       {{ if $authorImage }}
         {{ $authorImage := $authorImage.Fill "288x288" }}
@@ -14,15 +14,15 @@
           class="mb-2 rounded-full h-36 w-36"
           width="144"
           height="144"
-          alt="{{ $.Site.Author.name | default "Author" }}"
+          alt="{{ $.Site.Params.Author.name | default "Author" }}"
           src="{{ $authorImage.RelPermalink }}"
         />
       {{ end }}
     {{ end }}
     <h5 class="text-4xl">
-      {{ .Site.Author.name | default .Site.Title }}
+      {{ .Site.Params.Author.name | default .Site.Title }}
     </h5>
-    {{ with .Site.Author.bio }}
+    {{ with .Site.Params.Author.bio }}
       <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
         {{ . | markdownify | emojify }}
       </h2>

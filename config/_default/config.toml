@@ -9,7 +9,7 @@ defaultContentLanguage = "pl"
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 12
+pagination.pagerSize = 12
 summaryLength = 30
 
 buildDrafts = false

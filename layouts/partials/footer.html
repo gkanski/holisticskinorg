@@ -24,7 +24,7 @@
         {{- else }}
         &copy;
         {{ now.Format "2006" }}
-        {{ .Site.Author.headline | markdownify | emojify }}
+        {{ .Site.Params.Author.headline | markdownify | emojify }}
         {{- end }}
       </p>
       {{ end }}
