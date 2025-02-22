@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-14.02.2025: Nowy artykuł Natalii Messina pt. "Polifenole winorośli: potencjał i działanie w kosmetykach do pielęgnacji skóry." <a href="/artykuly/52nmessina">przeczytasz tutaj...</a>
+22.02.2025: Nowy artykuł Moniki Dobrzańskiej pt. "Ochrona danych w branży beauty." <a href="/artykuly/53mdobrzanska">przeczytasz tutaj...</a>
 {{< /alert >}}
 
 <p></p>
