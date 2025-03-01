@@ -14,12 +14,10 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 </br>
 
 {{< lead >}}
-Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Magdalena Dyrda (EXPERT COSMETOLOG)** jako Partnerka ds. Merytoryczno-Dydaktycznych, **Wioleta Słodka** jako Partnerka ds. Marketingu oraz **Katarzyna Śliwka** jako Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych.
+Z początkiem Nowego Roku 2025 do naszego zespołu dołącza mgr **Wioleta Słodka** jako Partnerka ds. Marketingu oraz **Katarzyna Śliwka** jako Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych.
 Cieszymy się, że możemy wspólnie działać na rzecz rozwoju holistycznej kosmetologii i edukacji w branży Beauty.
 {{< /lead >}}
 
-{{< article link="/partnerzy/mdyrda/" >}}
-<br>
 {{< article link="/partnerzy/wslodka/" >}}
 <br>
 {{< article link="/ambasadorzy/ksliwka/" >}}
