@@ -4,12 +4,12 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-22.02.2025: Nowy artykuł Moniki Dobrzańskiej pt. "Ochrona danych w branży beauty." <a href="/artykuly/53mdobrzanska">przeczytasz tutaj...</a>
+19.03.2025: Nowy artykuł Klaudii Łada pt. "Zegar biologiczny skóry – wpływ chronobiologii na regenerację i proces starzenia." <a href="/artykuly/54klada">przeczytasz tutaj...</a>
 {{< /alert >}}
 
 <p></p>
 
-{{< article link="/artykuly/53mdobrzanska/" >}}
+{{< article link="/artykuly/54klada/" >}}
 
 </br>
 
