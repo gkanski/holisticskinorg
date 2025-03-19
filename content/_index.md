@@ -4,12 +4,12 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-19.03.2025: Nowy artykuł Klaudii Łada pt. "Zegar biologiczny skóry – wpływ chronobiologii na regenerację i proces starzenia." <a href="/artykuly/54klada">przeczytasz tutaj...</a>
+19.03.2025: Nowy artykuł Klaudii Gawkowskiej pt. "Zegar biologiczny skóry – wpływ chronobiologii na regenerację i proces starzenia." <a href="/artykuly/54kgawkowska">przeczytasz tutaj...</a>
 {{< /alert >}}
 
 <p></p>
 
-{{< article link="/artykuly/54klada/" >}}
+{{< article link="/artykuly/54kgawkowska/" >}}
 
 </br>
 

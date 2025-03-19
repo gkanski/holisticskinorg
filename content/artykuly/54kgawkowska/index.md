@@ -1,20 +1,20 @@
 ---
 title: "Zegar biologiczny skóry – wpływ chronobiologii na regenerację i proces starzenia"
-date: 2025-02-22
+date: 2025-03-19
 draft: false
 description: ""
 showDate: true
-tags: [Klaudia Łada, Zegar Biologicznzy, Starzenie]
+tags: [Klaudia Gawkowska, Zegar Biologicznzy, Starzenie]
 heroStyle: "background"
 layoutBackgroundHeaderSpace: true
 showAuthor: false
 authors:
 - klada
-summary: "Klaudia Łada"
+summary: "Klaudia Gawkowska"
 ---
 
 {{< lead >}}
-Klaudia Łada
+Klaudia Gawkowska
 {{< /lead >}}
 
 ## Wstęp
