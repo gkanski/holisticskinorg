@@ -1,0 +1,11 @@
+{
+    "name": "Anna Podymska",
+    "image" : "img/podymska.jpg",
+    "bio": "Założycielka marki TrichoLux Professional oraz TrichoLux Modern Head SPA, doradca biznesowy, manager branży beauty oraz sektora Wellness & SPA, szkoleniowiec, magister ekonomii i zarządzania. Organizatorka i wykładowczyni międzynarodowych konferencji oraz szkoleń managerskich. Członkini Międzynarodowej Organizacji CIDESCO zrzeszającej profesjonalistów branży beauty. Z pasji od 2019 roku trycholog komplementarny i prekursor zabiegów Head SPA w Polsce. Od dłuższego czasu zainteresowana również onkotrychologią oraz badaniami naukowymi nad wpływem zabiegów Head SPA na poprawę psychofizyczną człowieka.",
+    "social": [
+        { "instagram": "https://www.instagram.com/tricholux_professional/" },
+        { "facebook": "https://www.facebook.com/tricholux/" },
+        { "facebook": "https://www.facebook.com/tricholux-modernheadspa/" },
+        { "link": "https://tricholux.eu/" }
+    ]
+}
