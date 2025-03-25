@@ -75,7 +75,7 @@ Gabinety i studia Head SPA oferują swoim klientom szereg bardzo zróżnicowanyc
 
 Head SPA to coś więcej niż połączenie zabiegu kosmetycznego, fryzjerskiego, trychologicznego i masażu – to harmonijne połączenie innowacji technologicznych z tradycyjnymi holistycznymi rytuałami, które poprawiają zdrowie skóry głowy, wspomagają wzrost włosów i ogólne samopoczucie. Niezależnie od tego, czy szukasz relaksu, detoksykacji czy rewitalizacji włosów, zabiegi te zapewniają terapeutyczną ucieczkę od codziennego stresu. Wybierając odpowiednie Head SPA dla swoich potrzeb i zwracając uwagę na właściwą pielęgnację pozabiegową, możesz cieszyć się pełnymi korzyściami tego wyjątkowego doświadczenia i systematycznie je powtarzać. 
 
-## Bibliografia:
+## Bibliografia
 1.	Cassandra Cavanah Guide to Hydrothermal Spa & Wellness Development Standards, 4th edition, Global Wellness Institute, Miami 2024
 2.	Wu Bin Jiang Dr Wus Head Massage: Anti-Aging and Holistic Healing Therapy, Ymaa Publication Center, 2005
 3.	Teresa Kulikowska-Jakubik, Małgorzata Richter Techniki fryzjerskie pielęgnacji włosów – podręcznik do nauki zawodu fryzjer i technik usług fryzjerskich, Warszawa 2017
