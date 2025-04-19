@@ -5,14 +5,9 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 
 {{< article link="/artykuly/56wslodka/" >}}
 
-{{< lead >}}
 [Wszystkie artykuły...](/artykuly)
 
-💬 Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami!
-Razem możemy tworzyć treści, które inspirują, edukują i wspierają świadomą drogę do zdrowia i piękna!
-{{< /lead >}}
-
-<hr>
+![](/img/fourhs.jpeg)
 
 {{< items >}}
 
@@ -33,10 +28,13 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 
 {{< /items >}}
 
-![](/img/fourhs.jpeg)
+{{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin" timestamp="1s" width="80%">}}
 
 <hr>
 
-{{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin" timestamp="1s" width="80%">}}
+{{< lead >}}
+💬 Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami!
+Razem możemy tworzyć treści, które inspirują, edukują i wspierają świadomą drogę do zdrowia i piękna!
+{{< /lead >}}
 
 <hr>
