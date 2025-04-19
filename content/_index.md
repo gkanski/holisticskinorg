@@ -3,7 +3,9 @@ title: ""
 description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
-{{< article link="/artykuly/56wslodka/" >}}
+{{< alert "bell" >}}
+19.04.2025: Nowy artykuł Wiolety Słodkiej pt. "Dostosuj usługi do klienta: Jak model DISC pomaga w obsłudze w salonie beauty?" <a href="/artykuly/56wslodka">przeczytasz tutaj...</a>
+{{< /alert >}}
 
 [Wszystkie artykuły...](/artykuly)
 
