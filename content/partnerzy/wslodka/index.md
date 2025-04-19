@@ -1,6 +1,6 @@
 ---
 title: "Wioleta Słodka"
-date: 2025-01-01
+date: 2025-01-02
 draft: false
 description: "Wioleta Słodka - Partnerka ds. Marketingu"
 showDate: false
