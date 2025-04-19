@@ -30,9 +30,11 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 
 {{< /items >}}
 
+<div class="mx-auto text-center">
 {{< lead >}}
 Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin
 {{< /lead >}}
+</div>
 
 {{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="" timestamp="1s" width="80%">}}
 
