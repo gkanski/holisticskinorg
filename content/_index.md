@@ -11,6 +11,12 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 
 <br>
 
+<div class="mx-auto text-center">
+{{< lead >}}
+Nowy rozdział w Fundacji. Przedstawiamy nowego Partnera.
+{{< /lead >}}
+</div>
+
 {{< article link="/badania-kliniczne/" >}}
 
 <hr>
@@ -27,9 +33,9 @@ Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego
 :small_blue_diamond:Grzegorz Kański - Prezes Zarządu / IT
 {{< /item >}}
 
-{{< item icon="heart-empty" header="AMBASADORZY" subheader="Ambasadorzy Fundacji" badge="NEWS" more="/ambasadorzy/" >}}
-:small_blue_diamond:Paulina Kwietoń - Ambasadorka ds. Bielactwa i Warsztatów Dydaktycznych<br>
-:small_blue_diamond:Katarzyna Śliwka - Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych<br>
+
+{{< item icon="link" header="WSPÓŁPRACA" subheader="z Fundacją" >}}
+Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami! Razem możemy tworzyć treści, które inspirują, edukują i wspierają świadomą drogę do zdrowia i piękna!
 {{< /item >}}
 
 {{< /items >}}
@@ -41,12 +47,5 @@ Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin
 </div>
 
 {{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="" timestamp="1s" width="80%">}}
-
-<hr>
-
-{{< lead >}}
-💬 Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami!
-Razem możemy tworzyć treści, które inspirują, edukują i wspierają świadomą drogę do zdrowia i piękna!
-{{< /lead >}}
 
 <hr>
