@@ -16,11 +16,6 @@
   weight = 10
 
 [[main]]
-  name = "WYDARZENIA"
-  pageRef = "projekty/szkolenia"
-  weight = 20
-
-[[main]]
   name = "SKINLIVE<sup>&reg;</sup>"
   pageRef = "projekty/skinlive"
   weight = 30

@@ -1,0 +1,10 @@
+{
+    "name": "BadaniaKliniczne.pl",
+    "image" : "img/pl.jpg",
+    "bio": "BadaniaKliniczne.pl to ogólnodostępna platforma informacyjna, której celem jest ułatwienie pacjentom dostępu do aktualnych i rzetelnych informacji na temat badań klinicznych prowadzonych w Polsce i Europie. Serwis oferuje przystępną wyszukiwarkę badań, umożliwiającą szybkie znalezienie odpowiednich terapii, oraz dostarcza zrozumiałe opisy leków i schorzeń. Dzięki agregacji danych z międzynarodowych baz oraz współpracy z ośrodkami badawczymi, BadaniaKliniczne.pl stanowi wiarygodne źródło wiedzy dla pacjentów poszukujących nowoczesnych metod leczenia.",
+    "social": [
+        { "instagram": "https://www.instagram.com/badaniakliniczne.pl/" },
+        { "facebook": "https://www.facebook.com/BadaniaKlinicznepl-61575718377066/" },
+        { "link": "https://badaniakliniczne.pl/" }
+    ]
+}

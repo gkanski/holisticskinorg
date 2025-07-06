@@ -4,6 +4,7 @@ date: 2023-02-01
 draft: false
 description: "Dziękujemy za wypełnienie formularza"
 showDate: false
+showPagination: false
 heroStyle: "basic"
 layoutBackgroundHeaderSpace: false
 showAuthor: false

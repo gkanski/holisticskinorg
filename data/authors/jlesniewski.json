@@ -1,0 +1,9 @@
+{
+    "name": "Jakub Leśniewski",
+    "image" : "img/jlesniewski.jpg",
+    "bio": "Absolwent Niepublicznej Wyższej Szkoły Medycznej we Wrocławiu na kierunku podologia. Posiada także tytuł magistra ekonomii oraz wykształcenie kosmetologiczne. Jest doświadczonym podologiem oraz właścicielem Centrum Medyczno-Podologicznego SeryeClinic we Wrocławiu. Specjalizuje się w diagnozowaniu i leczeniu schorzeń stóp, ze szczególnym uwzględnieniem zmian skórnych, odcisków, wrastających paznokci oraz innych patologii. Dzięki interdyscyplinarnemu wykształceniu oraz praktyce łączy podejście medyczne z estetyką i ekonomią zdrowia, co pozwala na kompleksową opiekę nad pacjentami. W swojej pracy kładzie nacisk na indywidualne podejście oraz nowoczesne metody terapii.",
+    "social": [
+        { "instagram": "https://www.instagram.com/serveclinic/" },
+        { "facebook": "https://www.facebook.com/podologia.leczenieranwewroclawiu/" }
+    ]
+}

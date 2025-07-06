@@ -9,7 +9,11 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 
 [Wszystkie artykuły...](/artykuly)
 
-![](/img/fourhs.jpeg)
+<br>
+
+{{< article link="/badania-kliniczne/" >}}
+
+<hr>
 
 {{< items >}}
 

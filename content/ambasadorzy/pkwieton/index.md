@@ -1,7 +1,7 @@
 ---
 title: "Paulina Kwietoń"
 date: 2025-01-25
-draft: false
+draft: true
 description: "Paulina Kwietoń - Ambasadorka ds. Bielactwa i Warsztatów Dydaktycznych"
 showDate: false
 heroStyle: "background"
