@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Śliwka"
 date: 2025-01-20
-draft: false
+draft: true
 description: "Mgr Katarzyna Śliwka - Ambasadorka ds. Trądziku i Warsztatów Dydaktycznych"
 showDate: false
 heroStyle: "background"
