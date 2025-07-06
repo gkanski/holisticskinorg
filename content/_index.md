@@ -19,9 +19,9 @@ Nowy rozdział w Fundacji. Przedstawiamy nowego Partnera.
 
 <div class="w-full mb-3 pl-2">
 {{< gallery >}}
-  <img src="img/pl2.png" class="grid-w33 rounded-md" />
-  <img src="img/pl3.png" class="grid-w33 rounded-md" />
-  <img src="img/pl4.png" class="grid-w33 rounded-md" />
+  <img src="img/pl2.jpg" class="grid-w33 rounded-md" />
+  <img src="img/pl3.jpg" class="grid-w33 rounded-md" />
+  <img src="img/pl4.jpg" class="grid-w33 rounded-md" />
 {{< /gallery >}}
 </div>
 
