@@ -4,7 +4,7 @@ description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
 {{< alert "bell" >}}
-19.04.2025: Nowy artykuł Wiolety Słodkiej pt. "Dostosuj usługi do klienta: Jak model DISC pomaga w obsłudze w salonie beauty?" <a href="/artykuly/56wslodka">przeczytasz tutaj...</a>
+10.07.2025: Nowy artykuł Jakuba Leśniewskiego pt. "Zielona bakteria jest dla Ciebie" <a href="/artykuly/57jlesniewski">przeczytasz tutaj...</a>
 {{< /alert >}}
 
 [Wszystkie artykuły...](/artykuly)

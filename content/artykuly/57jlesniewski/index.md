@@ -1,7 +1,7 @@
 ---
 title: "Zielona bakteria jest dla Ciebie"
-date: 2025-07-07
-draft: true
+date: 2025-07-10
+draft: false
 description: ""
 showDate: true
 tags: [Jakub Leśniewski, Podologia]
