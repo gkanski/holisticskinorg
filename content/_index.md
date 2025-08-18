@@ -35,14 +35,11 @@ Nowy rozdział w Fundacji. Przedstawiamy nowego Partnera.
 Pomysłodawczyni i organizatorka Fundacji Holistic Skin oraz Sympozjum Naukowego dla Kosmetologów SKINLIVE® we Wrocławiu.
 {{< /item >}}
 
-{{< item icon="heart-empty" header="PARTNERZY" subheader="Partnerzy Fundacji" more="/partnerzy/" >}}
-:small_blue_diamond:Wioleta Słodka - Partnerka ds. Marketingu<br>
-:small_blue_diamond:Monika Dobrzańska - Partnerka ds. Prawnych<br>
-:small_blue_diamond:Grzegorz Kański - Prezes Zarządu / IT
+{{< item icon="circle-info" header="DANE" subheader="Fundacji" more="/onas/dane/" >}}
+Dane identyfikacyjne, kontaktowe oraz statut Fundacji.
 {{< /item >}}
 
-
-{{< item icon="link" header="WSPÓŁPRACA" subheader="z Fundacją" >}}
+{{< item icon="link" header="WSPÓŁPRACA" subheader="z Fundacją" more="/kontakt/" >}}
 Jeśli chcesz współpracować merytorycznie i dydaktycznie w ramach Fundacji, skontaktuj się z nami! Razem możemy tworzyć treści, które inspirują, edukują i wspierają świadomą drogę do zdrowia i piękna!
 {{< /item >}}
 

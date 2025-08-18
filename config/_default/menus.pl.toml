@@ -21,11 +21,6 @@
   weight = 30
 
 [[main]]
-  name = "PARTNERZY"
-  pageRef = "partnerzy"
-  weight = 40
-
-[[main]]
   name = "KONTAKT"
   pageRef = "kontakt"
   weight = 60
