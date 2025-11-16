@@ -8,13 +8,13 @@
 <div class="px-4 py-4 rounded-lg shadow-2xl min-w-full ml-0 mb-10 border-2 overflow-hidden relative">
     <div class="flex justify-between">
         {{ if $icon }}
-        <h2 class="my-0">
+        <h2 class="mt-1 mb-0">
             {{ partial "icon" $icon }}
         </h2>
         {{ end }}
 
         {{ if $header }}
-        <h2 class="my-0">
+        <h2 class="mt-1 mb-0">
             {{ $header }}
         </h2>
         {{ end }}
@@ -24,7 +24,7 @@
             {{ partial "badge" $badge}}
         </h3>
         {{ else }}
-        <h3 class="my-0">&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+        <h3 class="mt-1 mb-0">&nbsp;&nbsp;&nbsp;&nbsp;</h3>
         {{ end }}
     </div>
 

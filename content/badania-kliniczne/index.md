@@ -2,7 +2,9 @@
 title: "BadaniaKliniczne.pl"
 date: 2025-07-06
 draft: false
+externalUrl: "https://badaniakliniczne.pl"
 description: "BadaniaKliniczne.pl – Twój przewodnik po świecie badań klinicznych"
+showReadingTime: false
 showDate: false
 showPagination: false
 heroStyle: basic

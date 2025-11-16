@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["artykuly"]
 # robots = ""
 
 disableImageOptimization = true
@@ -35,14 +35,14 @@ highlightCurrentMenuArea = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/beata.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/artykuly"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]

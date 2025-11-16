@@ -5,7 +5,7 @@ draft: false
 externalUrl: "https://skinlive.pl/sympozjumprev/skinlive24/"
 summary: "Trzecia edycja Sympozjum odbyła się 9-10 listopada 2024 roku we Wrocławiu. Organizowana przez Beatę Rucką-Kańską przy wsparciu Fundacji Holistic Skin."
 showReadingTime: false
-_build:
+build:
   render: "false"
   list: "local"
 ---

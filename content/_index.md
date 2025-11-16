@@ -3,31 +3,26 @@ title: ""
 description: "Witaj na stronach Fundacji Holistic Skin"
 ---
 
-{{< alert "bell" >}}
-10.07.2025: Nowy artykuł Jakuba Leśniewskiego pt. "Zielona bakteria jest dla Ciebie" <a href="/artykuly/57jlesniewski">przeczytasz tutaj...</a>
-{{< /alert >}}
-
-[Wszystkie artykuły...](/artykuly)
-
-<br>
+<h2 class="mt-20 mb-0">Wiadomości</h2><hr class="mt-2 mb-10" style="border-color: white;">
 
 <div class="mx-auto text-center">
 {{< lead >}}
-Nowy rozdział w Fundacji. Przedstawiamy nowego Partnera.
+Przedstawiamy nowego Partnera Fundacji.
 {{< /lead >}}
 </div>
 
 <div class="w-full mb-3 pl-2">
 {{< gallery >}}
-  <img src="img/pl2.jpg" class="grid-w33 rounded-md" />
-  <img src="img/pl3.jpg" class="grid-w33 rounded-md" />
-  <img src="img/pl4.jpg" class="grid-w33 rounded-md" />
+  <img src="img/pl2.png" class="grid-w33 rounded-md" />
+  <img src="img/pl3.png" class="grid-w33 rounded-md" />
+  <img src="img/pl4.png" class="grid-w33 rounded-md" />
 {{< /gallery >}}
 </div>
 
-{{< article link="/badania-kliniczne/" >}}
+{{< article link="/badania-kliniczne/" showSummary=true >}}
 
-<hr>
+
+<h2 class="mt-20 mb-0">O Fundacji</h2><hr class="mt-2 mb-10" style="border-color: white;">
 
 {{< items >}}
 
@@ -53,4 +48,4 @@ Zapraszamy do obejrzenia wywiadu z Fundatorką Fundacji Holistic Skin
 
 {{< cloudflarepoz id=7efa007bfbced67f8799d6447adfc419 author="" timestamp="1s" width="80%">}}
 
-<hr>
+<br>
