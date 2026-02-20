@@ -11,7 +11,7 @@ title = "FUNDACJA HOLISTIC SKIN"
   #logo = "img/logo.png"
   # secondaryLogo = "PATH"
   description = "holisticskin.org"
-  # copyright = "&copy; 2023 Fundacja Holistic Skin"
+  copyright = "&copy; { year } Fundacja Holistic Skin"
 
 [author]
   name = "Beata Rucka-Kańska"
