@@ -1,5 +1,5 @@
 ---
-title: "Polifenole winorośli: potencjał i działanie w kosmetykach do pielęgnacji skóry."
+title: "Polifenole winorośli: potencjał i działanie w kosmetykach do pielęgnacji skóry"
 date: 2025-02-14
 draft: false
 description: ""

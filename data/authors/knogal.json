@@ -1,0 +1,10 @@
+{
+    "name": "Katarzyna Nogal-Nowak, Lactee Laboratories Sp. z o.o.",
+    "image" : "img/knogal.jpg",
+    "bio": "Biotechnolog, specjalistka ds. badań i rozwoju w branży dermokosmetycznej oraz biomedycznej. Absolwentka Wydziału Biochemii, Biofizyki i Biotechnologii Uniwersytetu Jagiellońskiego oraz Śląskiej Wyższej Szkoły Medycznej w zakresie kosmetologii estetycznej. Od ponad 10 lat związana z projektami badawczo-rozwojowymi z pogranicza biotechnologii, medycyny i kosmetologii. Posiada doświadczenie w pracy z produktami zaawansowanej terapii biologicznej, wyrobami medycznymi oraz dermokosmetykami nowej generacji. Pomysłodawczyni innowacyjnej koncepcji izolacji wybranych szczepów bakterii z mleka ludzkiego i ich zastosowania w kosmetykach. Od 2025 roku – Wiceprezes Lactee Laboratories, gdzie odpowiada za rozwój innowacyjnych produktów opartych o biotechnologię mleka ludzkiego, oraz formulacje, testy aplikacyjne i strategię terapeutyczną dla AZS, skór wrażliwych i problematycznych.",
+    "social": [
+        { "instagram": "https://www.instagram.com/lactee_laboratories/" },
+        { "facebook": "https://www.facebook.com/profile.php?id=61581566105212" },
+        { "link": "https://www.lactee.pl/" }
+    ]
+}
